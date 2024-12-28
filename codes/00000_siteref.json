@@ -1,3 +1,6 @@
 {
-    "bestbuy.com" : "Best Buy"
+    "bestbuy.com" : {
+        "Name":"Best Buy",
+        "File":"bestbuy.json"
+    }
 }
