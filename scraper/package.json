@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  },
+  "scripts": {
+    "start": "node couponfollow-scraper.js"
+  },
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "couponfollow-scraper.js",
+  "devDependencies": {},
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

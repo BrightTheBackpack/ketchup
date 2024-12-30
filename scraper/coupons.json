@@ -1,0 +1,4492 @@
+{
+  "abbottlyon.com": {
+    "name": "Abbott Lyon Coupons",
+    "site": "https://couponfollow.com/site/abbottlyon.com",
+    "file": "abbottlyoncoupons.json"
+  },
+  "abebooks.co.uk": {
+    "name": "AbeBooks Coupons",
+    "site": "https://couponfollow.com/site/abebooks.co.uk",
+    "file": "abebookscoupons.json"
+  },
+  "abebooks.com": {
+    "name": "AbeBooks Coupons",
+    "site": "https://couponfollow.com/site/abebooks.com",
+    "file": "abebookscoupons.json"
+  },
+  "abercrombie.com": {
+    "name": "Abercrombie & Fitch Coupons",
+    "site": "https://couponfollow.com/site/abercrombie.com",
+    "file": "abercrombiefitchcoupons.json"
+  },
+  "abt.com": {
+    "name": "Abt Electronics Coupons",
+    "site": "https://couponfollow.com/site/abt.com",
+    "file": "abtelectronicscoupons.json"
+  },
+  "academy.com": {
+    "name": "Academy Sports Coupons",
+    "site": "https://couponfollow.com/site/academy.com",
+    "file": "academysportscoupons.json"
+  },
+  "accuquilt.com": {
+    "name": "Accuquilt Coupons",
+    "site": "https://couponfollow.com/site/accuquilt.com",
+    "file": "accuquiltcoupons.json"
+  },
+  "acehardware.com": {
+    "name": "Ace Hardware Coupons",
+    "site": "https://couponfollow.com/site/acehardware.com",
+    "file": "acehardwarecoupons.json"
+  },
+  "acmetools.com": {
+    "name": "Acme Tools Coupons",
+    "site": "https://couponfollow.com/site/acmetools.com",
+    "file": "acmetoolscoupons.json"
+  },
+  "acronis.com": {
+    "name": "Acronis Coupons",
+    "site": "https://couponfollow.com/site/acronis.com",
+    "file": "acroniscoupons.json"
+  },
+  "adidas.ca": {
+    "name": "Adidas Canada Coupons",
+    "site": "https://couponfollow.com/site/adidas.ca",
+    "file": "adidascanadacoupons.json"
+  },
+  "adidas.com": {
+    "name": "adidas Coupons",
+    "site": "https://couponfollow.com/site/adidas.com",
+    "file": "adidascoupons.json"
+  },
+  "adidas.co.uk": {
+    "name": "Adidas UK Coupons",
+    "site": "https://couponfollow.com/site/adidas.co.uk",
+    "file": "adidasukcoupons.json"
+  },
+  "adorama.com": {
+    "name": "Adorama Coupons",
+    "site": "https://couponfollow.com/site/adorama.com",
+    "file": "adoramacoupons.json"
+  },
+  "adorebeauty.com.au": {
+    "name": "Adore Beauty Coupons",
+    "site": "https://couponfollow.com/site/adorebeauty.com.au",
+    "file": "adorebeautycoupons.json"
+  },
+  "adoreme.com": {
+    "name": "Adore Me Coupons",
+    "site": "https://couponfollow.com/site/adoreme.com",
+    "file": "adoremecoupons.json"
+  },
+  "advanceautoparts.com": {
+    "name": "Advance Auto Parts Coupons",
+    "site": "https://couponfollow.com/site/advanceautoparts.com",
+    "file": "advanceautopartscoupons.json"
+  },
+  "aeropostale.com": {
+    "name": "AERO Coupons",
+    "site": "https://couponfollow.com/site/aeropostale.com",
+    "file": "aerocoupons.json"
+  },
+  "aeroprecisionusa.com": {
+    "name": "Aero Precision Coupons",
+    "site": "https://couponfollow.com/site/aeroprecisionusa.com",
+    "file": "aeroprecisioncoupons.json"
+  },
+  "aerogarden.com": {
+    "name": "AeroGarden Coupons",
+    "site": "https://couponfollow.com/site/aerogarden.com",
+    "file": "aerogardencoupons.json"
+  },
+  "agentprovocateur.com": {
+    "name": "Agent Provocateur Coupons",
+    "site": "https://couponfollow.com/site/agentprovocateur.com",
+    "file": "agentprovocateurcoupons.json"
+  },
+  "agoda.com": {
+    "name": "Agoda Coupons",
+    "site": "https://couponfollow.com/site/agoda.com",
+    "file": "agodacoupons.json"
+  },
+  "airbnb.com": {
+    "name": "Airbnb Coupons",
+    "site": "https://couponfollow.com/site/airbnb.com",
+    "file": "airbnbcoupons.json"
+  },
+  "ajmadison.com": {
+    "name": "Aj Madison Coupons",
+    "site": "https://couponfollow.com/site/ajmadison.com",
+    "file": "ajmadisoncoupons.json"
+  },
+  "albeebaby.com": {
+    "name": "Albee Baby Coupons",
+    "site": "https://couponfollow.com/site/albeebaby.com",
+    "file": "albeebabycoupons.json"
+  },
+  "aldoshoes.com": {
+    "name": "Aldo Shoes Coupons",
+    "site": "https://couponfollow.com/site/aldoshoes.com",
+    "file": "aldoshoescoupons.json"
+  },
+  "alibris.com": {
+    "name": "Alibris Coupons",
+    "site": "https://couponfollow.com/site/alibris.com",
+    "file": "alibriscoupons.json"
+  },
+  "alienware.com": {
+    "name": "Alienware Coupons",
+    "site": "https://couponfollow.com/site/alienware.com",
+    "file": "alienwarecoupons.json"
+  },
+  "aliexpress.com": {
+    "name": "AliExpress Coupons",
+    "site": "https://couponfollow.com/site/aliexpress.com",
+    "file": "aliexpresscoupons.json"
+  },
+  "allbeauty.com": {
+    "name": "Allbeauty Coupons",
+    "site": "https://couponfollow.com/site/allbeauty.com",
+    "file": "allbeautycoupons.json"
+  },
+  "allposters.com": {
+    "name": "AllPosters Coupons",
+    "site": "https://couponfollow.com/site/allposters.com",
+    "file": "allposterscoupons.json"
+  },
+  "aloyoga.com": {
+    "name": "Alo Yoga Coupons",
+    "site": "https://couponfollow.com/site/aloyoga.com",
+    "file": "aloyogacoupons.json"
+  },
+  "altitude-sports.com": {
+    "name": "Altitude Sports Coupons",
+    "site": "https://couponfollow.com/site/altitude-sports.com",
+    "file": "altitudesportscoupons.json"
+  },
+  "amazon.ca": {
+    "name": "Amazon Coupons",
+    "site": "https://couponfollow.com/site/amazon.ca",
+    "file": "amazoncoupons.json"
+  },
+  "amazon.co.uk": {
+    "name": "Amazon Coupons",
+    "site": "https://couponfollow.com/site/amazon.co.uk",
+    "file": "amazoncoupons.json"
+  },
+  "amazon.com": {
+    "name": "Amazon Coupons",
+    "site": "https://couponfollow.com/site/amazon.com",
+    "file": "amazoncoupons.json"
+  },
+  "amazon.in": {
+    "name": "Amazon India Coupons",
+    "site": "https://couponfollow.com/site/amazon.in",
+    "file": "amazonindiacoupons.json"
+  },
+  "ae.com": {
+    "name": "American Eagle Coupons",
+    "site": "https://couponfollow.com/site/ae.com",
+    "file": "americaneaglecoupons.json"
+  },
+  "americangirl.com": {
+    "name": "American Girl Coupons",
+    "site": "https://couponfollow.com/site/americangirl.com",
+    "file": "americangirlcoupons.json"
+  },
+  "americangolf.co.uk": {
+    "name": "American Golf Coupons",
+    "site": "https://couponfollow.com/site/americangolf.co.uk",
+    "file": "americangolfcoupons.json"
+  },
+  "anntaylor.com": {
+    "name": "Ann Taylor Coupons",
+    "site": "https://couponfollow.com/site/anntaylor.com",
+    "file": "anntaylorcoupons.json"
+  },
+  "anovaculinary.com": {
+    "name": "Anova Culinary Coupons",
+    "site": "https://couponfollow.com/site/anovaculinary.com",
+    "file": "anovaculinarycoupons.json"
+  },
+  "anthropologie.com": {
+    "name": "Anthropologie Coupons",
+    "site": "https://couponfollow.com/site/anthropologie.com",
+    "file": "anthropologiecoupons.json"
+  },
+  "appliancesdirect.co.uk": {
+    "name": "Appliances Direct Coupons",
+    "site": "https://couponfollow.com/site/appliancesdirect.co.uk",
+    "file": "appliancesdirectcoupons.json"
+  },
+  "ardene.com": {
+    "name": "Ardene Coupons",
+    "site": "https://couponfollow.com/site/ardene.com",
+    "file": "ardenecoupons.json"
+  },
+  "argos.co.uk": {
+    "name": "Argos Coupons",
+    "site": "https://couponfollow.com/site/argos.co.uk",
+    "file": "argoscoupons.json"
+  },
+  "arhaus.com": {
+    "name": "Arhaus Coupons",
+    "site": "https://couponfollow.com/site/arhaus.com",
+    "file": "arhauscoupons.json"
+  },
+  "art.com": {
+    "name": "Art.com Coupons",
+    "site": "https://couponfollow.com/site/art.com",
+    "file": "artcomcoupons.json"
+  },
+  "arteza.com": {
+    "name": "Arteza Coupons",
+    "site": "https://couponfollow.com/site/arteza.com",
+    "file": "artezacoupons.json"
+  },
+  "ashford.com": {
+    "name": "Ashford Coupons",
+    "site": "https://couponfollow.com/site/ashford.com",
+    "file": "ashfordcoupons.json"
+  },
+  "bhphotovideo.com": {
+    "name": "B&H Photo Video Pro Audio Coupons",
+    "site": "https://couponfollow.com/site/bhphotovideo.com",
+    "file": "bhphotovideoproaudiocoupons.json"
+  },
+  "backstage.com": {
+    "name": "Backstage Coupons",
+    "site": "https://couponfollow.com/site/backstage.com",
+    "file": "backstagecoupons.json"
+  },
+  "ballarddesigns.com": {
+    "name": "Ballard Designs Coupons",
+    "site": "https://couponfollow.com/site/ballarddesigns.com",
+    "file": "ballarddesignscoupons.json"
+  },
+  "bally.com": {
+    "name": "Bally Coupons",
+    "site": "https://couponfollow.com/site/bally.com",
+    "file": "ballycoupons.json"
+  },
+  "barenecessities.com": {
+    "name": "Bare Necessities Coupons",
+    "site": "https://couponfollow.com/site/barenecessities.com",
+    "file": "barenecessitiescoupons.json"
+  },
+  "barnesandnoble.com": {
+    "name": "Barnes & Noble Coupons",
+    "site": "https://couponfollow.com/site/barnesandnoble.com",
+    "file": "barnesnoblecoupons.json"
+  },
+  "basspro.com": {
+    "name": "Bass Pro Shops Coupons",
+    "site": "https://couponfollow.com/site/basspro.com",
+    "file": "bassproshopscoupons.json"
+  },
+  "bathandbodyworks.com": {
+    "name": "Bath and Body Works Coupons",
+    "site": "https://couponfollow.com/site/bathandbodyworks.com",
+    "file": "bathandbodyworkscoupons.json"
+  },
+  "batteriesplus.com": {
+    "name": "Batteries Plus Bulbs Coupons",
+    "site": "https://couponfollow.com/site/batteriesplus.com",
+    "file": "batteriesplusbulbscoupons.json"
+  },
+  "bbqguys.com": {
+    "name": "BBQGuys Coupons",
+    "site": "https://couponfollow.com/site/bbqguys.com",
+    "file": "bbqguyscoupons.json"
+  },
+  "beginningboutique.com.au": {
+    "name": "Beginning Boutique Coupons",
+    "site": "https://couponfollow.com/site/beginningboutique.com.au",
+    "file": "beginningboutiquecoupons.json"
+  },
+  "belk.com": {
+    "name": "Belk Coupons",
+    "site": "https://couponfollow.com/site/belk.com",
+    "file": "belkcoupons.json"
+  },
+  "berries.com": {
+    "name": "Berries.com Coupons",
+    "site": "https://couponfollow.com/site/berries.com",
+    "file": "berriescomcoupons.json"
+  },
+  "bestbuy.ca": {
+    "name": "Best Buy Coupons",
+    "site": "https://couponfollow.com/site/bestbuy.ca",
+    "file": "bestbuycoupons.json"
+  },
+  "bestbuy.com": {
+    "name": "Best Buy Coupons",
+    "site": "https://couponfollow.com/site/bestbuy.com",
+    "file": "bestbuycoupons.json"
+  },
+  "biglots.com": {
+    "name": "Big Lots Coupons",
+    "site": "https://couponfollow.com/site/biglots.com",
+    "file": "biglotscoupons.json"
+  },
+  "billabong.com": {
+    "name": "Billabong Coupons",
+    "site": "https://couponfollow.com/site/billabong.com",
+    "file": "billabongcoupons.json"
+  },
+  "birchbox.com": {
+    "name": "Birchbox Coupons",
+    "site": "https://couponfollow.com/site/birchbox.com",
+    "file": "birchboxcoupons.json"
+  },
+  "bissell.com": {
+    "name": "Bissell Coupons",
+    "site": "https://couponfollow.com/site/bissell.com",
+    "file": "bissellcoupons.json"
+  },
+  "bitdefender.com": {
+    "name": "Bitdefender Coupons",
+    "site": "https://couponfollow.com/site/bitdefender.com",
+    "file": "bitdefendercoupons.json"
+  },
+  "bjs.com": {
+    "name": "Bj's Wholesale Club Coupons",
+    "site": "https://couponfollow.com/site/bjs.com",
+    "file": "bjswholesaleclubcoupons.json"
+  },
+  "bkstr.com": {
+    "name": "Bkstr.com Coupons",
+    "site": "https://couponfollow.com/site/bkstr.com",
+    "file": "bkstrcomcoupons.json"
+  },
+  "bladehq.com": {
+    "name": "Bladehq Coupons",
+    "site": "https://couponfollow.com/site/bladehq.com",
+    "file": "bladehqcoupons.json"
+  },
+  "blinds.com": {
+    "name": "Blinds.com Coupons",
+    "site": "https://couponfollow.com/site/blinds.com",
+    "file": "blindscomcoupons.json"
+  },
+  "blindsgalore.com": {
+    "name": "Blindsgalore Coupons",
+    "site": "https://couponfollow.com/site/blindsgalore.com",
+    "file": "blindsgalorecoupons.json"
+  },
+  "bloomingdales.com": {
+    "name": "Bloomingdale's Coupons",
+    "site": "https://couponfollow.com/site/bloomingdales.com",
+    "file": "bloomingdalescoupons.json"
+  },
+  "blueapron.com": {
+    "name": "Blue Apron Coupons",
+    "site": "https://couponfollow.com/site/blueapron.com",
+    "file": "blueaproncoupons.json"
+  },
+  "bluenile.com": {
+    "name": "Blue Nile Coupons",
+    "site": "https://couponfollow.com/site/bluenile.com",
+    "file": "bluenilecoupons.json"
+  },
+  "bodybuilding.com": {
+    "name": "Bodybuilding Coupons",
+    "site": "https://couponfollow.com/site/bodybuilding.com",
+    "file": "bodybuildingcoupons.json"
+  },
+  "bonobos.com": {
+    "name": "Bonobos Coupons",
+    "site": "https://couponfollow.com/site/bonobos.com",
+    "file": "bonoboscoupons.json"
+  },
+  "boohoo.com": {
+    "name": "boohoo Coupons",
+    "site": "https://couponfollow.com/site/boohoo.com",
+    "file": "boohoocoupons.json"
+  },
+  "boohooman.com": {
+    "name": "BoohooMAN Coupons",
+    "site": "https://couponfollow.com/site/boohooman.com",
+    "file": "boohoomancoupons.json"
+  },
+  "bookoutlet.ca": {
+    "name": "Book Outlet Canada Coupons",
+    "site": "https://couponfollow.com/site/bookoutlet.ca",
+    "file": "bookoutletcanadacoupons.json"
+  },
+  "bookoutlet.com": {
+    "name": "Book Outlet Coupons",
+    "site": "https://couponfollow.com/site/bookoutlet.com",
+    "file": "bookoutletcoupons.json"
+  },
+  "booking.com": {
+    "name": "Booking.com Coupons",
+    "site": "https://couponfollow.com/site/booking.com",
+    "file": "bookingcomcoupons.json"
+  },
+  "boostmobile.com": {
+    "name": "Boost Mobile Coupons",
+    "site": "https://couponfollow.com/site/boostmobile.com",
+    "file": "boostmobilecoupons.json"
+  },
+  "bose.com": {
+    "name": "Bose Coupons",
+    "site": "https://couponfollow.com/site/bose.com",
+    "file": "bosecoupons.json"
+  },
+  "boxlunch.com": {
+    "name": "BoxLunch Coupons",
+    "site": "https://couponfollow.com/site/boxlunch.com",
+    "file": "boxlunchcoupons.json"
+  },
+  "brooklynbedding.com": {
+    "name": "Brooklyn Bedding Coupons",
+    "site": "https://couponfollow.com/site/brooklynbedding.com",
+    "file": "brooklynbeddingcoupons.json"
+  },
+  "brooksbrothers.com": {
+    "name": "Brooks Brothers Coupons",
+    "site": "https://couponfollow.com/site/brooksbrothers.com",
+    "file": "brooksbrotherscoupons.json"
+  },
+  "brooksrunning.com": {
+    "name": "Brooks Coupons",
+    "site": "https://couponfollow.com/site/brooksrunning.com",
+    "file": "brookscoupons.json"
+  },
+  "brownells.com": {
+    "name": "Brownells Coupons",
+    "site": "https://couponfollow.com/site/brownells.com",
+    "file": "brownellscoupons.json"
+  },
+  "budget.com": {
+    "name": "Budget Coupons",
+    "site": "https://couponfollow.com/site/budget.com",
+    "file": "budgetcoupons.json"
+  },
+  "budgetgolf.com": {
+    "name": "Budget Golf Coupons",
+    "site": "https://couponfollow.com/site/budgetgolf.com",
+    "file": "budgetgolfcoupons.json"
+  },
+  "build.com": {
+    "name": "Build.com Coupons",
+    "site": "https://couponfollow.com/site/build.com",
+    "file": "buildcomcoupons.json"
+  },
+  "builtbar.com": {
+    "name": "Builtbar Coupons",
+    "site": "https://couponfollow.com/site/builtbar.com",
+    "file": "builtbarcoupons.json"
+  },
+  "burkedecor.com": {
+    "name": "Burke Decor Coupons",
+    "site": "https://couponfollow.com/site/burkedecor.com",
+    "file": "burkedecorcoupons.json"
+  },
+  "burtsbeesbaby.com": {
+    "name": "Burts Bees Baby Coupons",
+    "site": "https://couponfollow.com/site/burtsbeesbaby.com",
+    "file": "burtsbeesbabycoupons.json"
+  },
+  "cabelas.com": {
+    "name": "Cabelas Coupons",
+    "site": "https://couponfollow.com/site/cabelas.com",
+    "file": "cabelascoupons.json"
+  },
+  "cafepress.com": {
+    "name": "CafePress Coupons",
+    "site": "https://couponfollow.com/site/cafepress.com",
+    "file": "cafepresscoupons.json"
+  },
+  "campchef.com": {
+    "name": "Camp Chef Coupons",
+    "site": "https://couponfollow.com/site/campchef.com",
+    "file": "campchefcoupons.json"
+  },
+  "campingworld.com": {
+    "name": "Camping World Coupons",
+    "site": "https://couponfollow.com/site/campingworld.com",
+    "file": "campingworldcoupons.json"
+  },
+  "care.com": {
+    "name": "Care.com Coupons",
+    "site": "https://couponfollow.com/site/care.com",
+    "file": "carecomcoupons.json"
+  },
+  "cariloha.com": {
+    "name": "Cariloha Coupons",
+    "site": "https://couponfollow.com/site/cariloha.com",
+    "file": "carilohacoupons.json"
+  },
+  "carparts.com": {
+    "name": "CarParts.com Coupons",
+    "site": "https://couponfollow.com/site/carparts.com",
+    "file": "carpartscomcoupons.json"
+  },
+  "carparts4less.co.uk": {
+    "name": "CarParts4Less Coupons",
+    "site": "https://couponfollow.com/site/carparts4less.co.uk",
+    "file": "carparts4lesscoupons.json"
+  },
+  "casetify.com": {
+    "name": "Casetify Coupons",
+    "site": "https://couponfollow.com/site/casetify.com",
+    "file": "casetifycoupons.json"
+  },
+  "casper.com": {
+    "name": "Casper Coupons",
+    "site": "https://couponfollow.com/site/casper.com",
+    "file": "caspercoupons.json"
+  },
+  "cassart.co.uk": {
+    "name": "Cass Art Coupons",
+    "site": "https://couponfollow.com/site/cassart.co.uk",
+    "file": "cassartcoupons.json"
+  },
+  "catch.com.au": {
+    "name": "Catch.com.au Coupons",
+    "site": "https://couponfollow.com/site/catch.com.au",
+    "file": "catchcomaucoupons.json"
+  },
+  "catherines.com": {
+    "name": "Catherines Coupons",
+    "site": "https://couponfollow.com/site/catherines.com",
+    "file": "catherinescoupons.json"
+  },
+  "cb2.com": {
+    "name": "Cb2 Coupons",
+    "site": "https://couponfollow.com/site/cb2.com",
+    "file": "cb2coupons.json"
+  },
+  "cdkeys.com": {
+    "name": "CDKeys Coupons",
+    "site": "https://couponfollow.com/site/cdkeys.com",
+    "file": "cdkeyscoupons.json"
+  },
+  "champion.com": {
+    "name": "Champion USA Coupons",
+    "site": "https://couponfollow.com/site/champion.com",
+    "file": "championusacoupons.json"
+  },
+  "champssports.com": {
+    "name": "Champs Sports Coupons",
+    "site": "https://couponfollow.com/site/champssports.com",
+    "file": "champssportscoupons.json"
+  },
+  "cheapoair.com": {
+    "name": "CheapOair Coupons",
+    "site": "https://couponfollow.com/site/cheapoair.com",
+    "file": "cheapoaircoupons.json"
+  },
+  "cheaptickets.com": {
+    "name": "CheapTickets Coupons",
+    "site": "https://couponfollow.com/site/cheaptickets.com",
+    "file": "cheapticketscoupons.json"
+  },
+  "chegg.com": {
+    "name": "Chegg Coupons",
+    "site": "https://couponfollow.com/site/chegg.com",
+    "file": "cheggcoupons.json"
+  },
+  "chewy.com": {
+    "name": "Chewy Coupons",
+    "site": "https://couponfollow.com/site/chewy.com",
+    "file": "chewycoupons.json"
+  },
+  "childrensplace.com": {
+    "name": "Children's Place Coupons",
+    "site": "https://couponfollow.com/site/childrensplace.com",
+    "file": "childrensplacecoupons.json"
+  },
+  "christianbook.com": {
+    "name": "Christian Book Coupons",
+    "site": "https://couponfollow.com/site/christianbook.com",
+    "file": "christianbookcoupons.json"
+  },
+  "chubbiesshorts.com": {
+    "name": "ChubbiesShorts.com Coupons",
+    "site": "https://couponfollow.com/site/chubbiesshorts.com",
+    "file": "chubbiesshortscomcoupons.json"
+  },
+  "cigarsinternational.com": {
+    "name": "Cigars International Coupons",
+    "site": "https://couponfollow.com/site/cigarsinternational.com",
+    "file": "cigarsinternationalcoupons.json"
+  },
+  "circulon.com": {
+    "name": "Circulon Coupons",
+    "site": "https://couponfollow.com/site/circulon.com",
+    "file": "circuloncoupons.json"
+  },
+  "clarks.co.uk": {
+    "name": "Clarks Shoes Coupons",
+    "site": "https://couponfollow.com/site/clarks.co.uk",
+    "file": "clarksshoescoupons.json"
+  },
+  "clickandgrow.com": {
+    "name": "Click & Grow Coupons",
+    "site": "https://couponfollow.com/site/clickandgrow.com",
+    "file": "clickgrowcoupons.json"
+  },
+  "coach.com": {
+    "name": "COACH Coupons",
+    "site": "https://couponfollow.com/site/coach.com",
+    "file": "coachcoupons.json"
+  },
+  "coachoutlet.com": {
+    "name": "Coach Outlet Coupons",
+    "site": "https://couponfollow.com/site/coachoutlet.com",
+    "file": "coachoutletcoupons.json"
+  },
+  "codecademy.com": {
+    "name": "Codecademy Coupons",
+    "site": "https://couponfollow.com/site/codecademy.com",
+    "file": "codecademycoupons.json"
+  },
+  "coldwatercreek.com": {
+    "name": "Coldwater Creek Coupons",
+    "site": "https://couponfollow.com/site/coldwatercreek.com",
+    "file": "coldwatercreekcoupons.json"
+  },
+  "colehaan.com": {
+    "name": "Cole Haan Coupons",
+    "site": "https://couponfollow.com/site/colehaan.com",
+    "file": "colehaancoupons.json"
+  },
+  "colourpop.com": {
+    "name": "ColourPop Coupons",
+    "site": "https://couponfollow.com/site/colourpop.com",
+    "file": "colourpopcoupons.json"
+  },
+  "containerstore.com": {
+    "name": "Container Store Coupons",
+    "site": "https://couponfollow.com/site/containerstore.com",
+    "file": "containerstorecoupons.json"
+  },
+  "converse.com": {
+    "name": "Converse Coupons",
+    "site": "https://couponfollow.com/site/converse.com",
+    "file": "conversecoupons.json"
+  },
+  "costco.com": {
+    "name": "Costco Coupons",
+    "site": "https://couponfollow.com/site/costco.com",
+    "file": "costcocoupons.json"
+  },
+  "cottonon.com": {
+    "name": "Cotton On Coupons",
+    "site": "https://couponfollow.com/site/cottonon.com",
+    "file": "cottononcoupons.json"
+  },
+  "coursehero.com": {
+    "name": "Course Hero Coupons",
+    "site": "https://couponfollow.com/site/coursehero.com",
+    "file": "courseherocoupons.json"
+  },
+  "coursera.org": {
+    "name": "Coursera Coupons",
+    "site": "https://couponfollow.com/site/coursera.org",
+    "file": "courseracoupons.json"
+  },
+  "crateandbarrel.com": {
+    "name": "Crate And Barrel Coupons",
+    "site": "https://couponfollow.com/site/crateandbarrel.com",
+    "file": "crateandbarrelcoupons.json"
+  },
+  "credobeauty.com": {
+    "name": "Credo Beauty Coupons",
+    "site": "https://couponfollow.com/site/credobeauty.com",
+    "file": "credobeautycoupons.json"
+  },
+  "crutchfield.com": {
+    "name": "Crutchfield Coupons",
+    "site": "https://couponfollow.com/site/crutchfield.com",
+    "file": "crutchfieldcoupons.json"
+  },
+  "cultbeauty.co.uk": {
+    "name": "Cult Beauty Coupons",
+    "site": "https://couponfollow.com/site/cultbeauty.co.uk",
+    "file": "cultbeautycoupons.json"
+  },
+  "currentbody.com": {
+    "name": "CurrentBody Coupons",
+    "site": "https://couponfollow.com/site/currentbody.com",
+    "file": "currentbodycoupons.json"
+  },
+  "customink.com": {
+    "name": "Custom Ink Coupons",
+    "site": "https://couponfollow.com/site/customink.com",
+    "file": "custominkcoupons.json"
+  },
+  "cvs.com": {
+    "name": "CVS Coupons",
+    "site": "https://couponfollow.com/site/cvs.com",
+    "file": "cvscoupons.json"
+  },
+  "cyclegear.com": {
+    "name": "Cycle Gear Coupons",
+    "site": "https://couponfollow.com/site/cyclegear.com",
+    "file": "cyclegearcoupons.json"
+  },
+  "dapperstreet.co.uk": {
+    "name": "Dapper Street Coupons",
+    "site": "https://couponfollow.com/site/dapperstreet.co.uk",
+    "file": "dapperstreetcoupons.json"
+  },
+  "darlingsofchelsea.co.uk": {
+    "name": "Darlings Of Chelsea Coupons",
+    "site": "https://couponfollow.com/site/darlingsofchelsea.co.uk",
+    "file": "darlingsofchelseacoupons.json"
+  },
+  "davidstea.com": {
+    "name": "DavidsTea Coupons",
+    "site": "https://couponfollow.com/site/davidstea.com",
+    "file": "davidsteacoupons.json"
+  },
+  "davincivaporizer.com": {
+    "name": "DaVinci Vaporizer Coupons",
+    "site": "https://couponfollow.com/site/davincivaporizer.com",
+    "file": "davincivaporizercoupons.json"
+  },
+  "deepdiscount.com": {
+    "name": "Deep Discount Coupons",
+    "site": "https://couponfollow.com/site/deepdiscount.com",
+    "file": "deepdiscountcoupons.json"
+  },
+  "dell.ca": {
+    "name": "Dell Canada Coupons",
+    "site": "https://couponfollow.com/site/dell.ca",
+    "file": "dellcanadacoupons.json"
+  },
+  "dell.com": {
+    "name": "Dell Coupons",
+    "site": "https://couponfollow.com/site/dell.com",
+    "file": "dellcoupons.json"
+  },
+  "dell.co.uk": {
+    "name": "Dell UK Coupons",
+    "site": "https://couponfollow.com/site/dell.co.uk",
+    "file": "dellukcoupons.json"
+  },
+  "derek-rose.com": {
+    "name": "Derek Rose Coupons",
+    "site": "https://couponfollow.com/site/derek-rose.com",
+    "file": "derekrosecoupons.json"
+  },
+  "dermacaredirect.co.uk": {
+    "name": "Dermacare Direct Coupons",
+    "site": "https://couponfollow.com/site/dermacaredirect.co.uk",
+    "file": "dermacaredirectcoupons.json"
+  },
+  "dermstore.com": {
+    "name": "Dermstore Coupons",
+    "site": "https://couponfollow.com/site/dermstore.com",
+    "file": "dermstorecoupons.json"
+  },
+  "dhgate.com": {
+    "name": "DHgate Coupons",
+    "site": "https://couponfollow.com/site/dhgate.com",
+    "file": "dhgatecoupons.json"
+  },
+  "dickblick.com": {
+    "name": "Dick Blick Coupons",
+    "site": "https://couponfollow.com/site/dickblick.com",
+    "file": "dickblickcoupons.json"
+  },
+  "dickssportinggoods.com": {
+    "name": "Dicks Sporting Goods Coupons",
+    "site": "https://couponfollow.com/site/dickssportinggoods.com",
+    "file": "dickssportinggoodscoupons.json"
+  },
+  "diesel.com": {
+    "name": "Diesel Coupons",
+    "site": "https://couponfollow.com/site/diesel.com",
+    "file": "dieselcoupons.json"
+  },
+  "discountmugs.com": {
+    "name": "Discount Mugs Coupons",
+    "site": "https://couponfollow.com/site/discountmugs.com",
+    "file": "discountmugscoupons.json"
+  },
+  "dockatot.com": {
+    "name": "DockATot Coupons",
+    "site": "https://couponfollow.com/site/dockatot.com",
+    "file": "dockatotcoupons.json"
+  },
+  "doheny.com": {
+    "name": "Doheny Coupons",
+    "site": "https://couponfollow.com/site/doheny.com",
+    "file": "dohenycoupons.json"
+  },
+  "dollargeneral.com": {
+    "name": "Dollar General Coupons",
+    "site": "https://couponfollow.com/site/dollargeneral.com",
+    "file": "dollargeneralcoupons.json"
+  },
+  "dollar.com": {
+    "name": "Dollar Rent A Car Coupons",
+    "site": "https://couponfollow.com/site/dollar.com",
+    "file": "dollarrentacarcoupons.json"
+  },
+  "dominos.com": {
+    "name": "Domino's Pizza Coupons",
+    "site": "https://couponfollow.com/site/dominos.com",
+    "file": "dominospizzacoupons.json"
+  },
+  "donnakaran.com": {
+    "name": "Donna Karan New York Coupons",
+    "site": "https://couponfollow.com/site/donnakaran.com",
+    "file": "donnakarannewyorkcoupons.json"
+  },
+  "doordash.com": {
+    "name": "DoorDash Coupons",
+    "site": "https://couponfollow.com/site/doordash.com",
+    "file": "doordashcoupons.json"
+  },
+  "dorothyperkins.com": {
+    "name": "Dorothy Perkins Coupons",
+    "site": "https://couponfollow.com/site/dorothyperkins.com",
+    "file": "dorothyperkinscoupons.json"
+  },
+  "dresslily.com": {
+    "name": "Dress Lily Coupons",
+    "site": "https://couponfollow.com/site/dresslily.com",
+    "file": "dresslilycoupons.json"
+  },
+  "drizly.com": {
+    "name": "Drizly Coupons",
+    "site": "https://couponfollow.com/site/drizly.com",
+    "file": "drizlycoupons.json"
+  },
+  "dsw.com": {
+    "name": "DSW Coupons",
+    "site": "https://couponfollow.com/site/dsw.com",
+    "file": "dswcoupons.json"
+  },
+  "dtlr.com": {
+    "name": "DTLR Coupons",
+    "site": "https://couponfollow.com/site/dtlr.com",
+    "file": "dtlrcoupons.json"
+  },
+  "dvf.com": {
+    "name": "DVF Coupons",
+    "site": "https://couponfollow.com/site/dvf.com",
+    "file": "dvfcoupons.json"
+  },
+  "dynadot.com": {
+    "name": "Dynadot Coupons",
+    "site": "https://couponfollow.com/site/dynadot.com",
+    "file": "dynadotcoupons.json"
+  },
+  "dyson.com": {
+    "name": "Dyson Coupons",
+    "site": "https://couponfollow.com/site/dyson.com",
+    "file": "dysoncoupons.json"
+  },
+  "elfcosmetics.com": {
+    "name": "e.l.f. Cosmetics Coupons",
+    "site": "https://couponfollow.com/site/elfcosmetics.com",
+    "file": "elfcosmeticscoupons.json"
+  },
+  "easeus.com": {
+    "name": "Ease US Coupons",
+    "site": "https://couponfollow.com/site/easeus.com",
+    "file": "easeuscoupons.json"
+  },
+  "ems.com": {
+    "name": "Eastern Mountain Sports Coupons",
+    "site": "https://couponfollow.com/site/ems.com",
+    "file": "easternmountainsportscoupons.json"
+  },
+  "easyspirit.com": {
+    "name": "Easy Spirit Coupons",
+    "site": "https://couponfollow.com/site/easyspirit.com",
+    "file": "easyspiritcoupons.json"
+  },
+  "eaze.com": {
+    "name": "Eaze Coupons",
+    "site": "https://couponfollow.com/site/eaze.com",
+    "file": "eazecoupons.json"
+  },
+  "ebags.com": {
+    "name": "ebags Coupons",
+    "site": "https://couponfollow.com/site/ebags.com",
+    "file": "ebagscoupons.json"
+  },
+  "ebay.com.au": {
+    "name": "eBay AU Coupons",
+    "site": "https://couponfollow.com/site/ebay.com.au",
+    "file": "ebayaucoupons.json"
+  },
+  "ebay.ca": {
+    "name": "eBay CA Coupons",
+    "site": "https://couponfollow.com/site/ebay.ca",
+    "file": "ebaycacoupons.json"
+  },
+  "ebay.com": {
+    "name": "eBay Coupons",
+    "site": "https://couponfollow.com/site/ebay.com",
+    "file": "ebaycoupons.json"
+  },
+  "ebay.co.uk": {
+    "name": "eBay UK Coupons",
+    "site": "https://couponfollow.com/site/ebay.co.uk",
+    "file": "ebayukcoupons.json"
+  },
+  "ebookers.com": {
+    "name": "Ebookers.com Coupons",
+    "site": "https://couponfollow.com/site/ebookers.com",
+    "file": "ebookerscomcoupons.json"
+  },
+  "eddiebauer.com": {
+    "name": "Eddie Bauer Coupons",
+    "site": "https://couponfollow.com/site/eddiebauer.com",
+    "file": "eddiebauercoupons.json"
+  },
+  "ediblearrangements.com": {
+    "name": "Edible Arrangements Coupons",
+    "site": "https://couponfollow.com/site/ediblearrangements.com",
+    "file": "ediblearrangementscoupons.json"
+  },
+  "edx.org": {
+    "name": "edX Coupons",
+    "site": "https://couponfollow.com/site/edx.org",
+    "file": "edxcoupons.json"
+  },
+  "eightsleep.com": {
+    "name": "Eight Sleep Coupons",
+    "site": "https://couponfollow.com/site/eightsleep.com",
+    "file": "eightsleepcoupons.json"
+  },
+  "eileenfisher.com": {
+    "name": "Eileen Fisher Coupons",
+    "site": "https://couponfollow.com/site/eileenfisher.com",
+    "file": "eileenfishercoupons.json"
+  },
+  "elizabetharden.com": {
+    "name": "Elizabeth Arden Coupons",
+    "site": "https://couponfollow.com/site/elizabetharden.com",
+    "file": "elizabethardencoupons.json"
+  },
+  "endclothing.co.uk": {
+    "name": "End Clothing Coupons",
+    "site": "https://couponfollow.com/site/endclothing.co.uk",
+    "file": "endclothingcoupons.json"
+  },
+  "endclothing.com": {
+    "name": "END. Coupons",
+    "site": "https://couponfollow.com/site/endclothing.com",
+    "file": "endcoupons.json"
+  },
+  "endoca.com": {
+    "name": "Endoca Coupons",
+    "site": "https://couponfollow.com/site/endoca.com",
+    "file": "endocacoupons.json"
+  },
+  "english-heritage.org.uk": {
+    "name": "English Heritage Coupons",
+    "site": "https://couponfollow.com/site/english-heritage.org.uk",
+    "file": "englishheritagecoupons.json"
+  },
+  "enterprise.com": {
+    "name": "Enterprise Rent-A-Car Coupons",
+    "site": "https://couponfollow.com/site/enterprise.com",
+    "file": "enterpriserentacarcoupons.json"
+  },
+  "entirelypets.com": {
+    "name": "Entirely Pets Coupons",
+    "site": "https://couponfollow.com/site/entirelypets.com",
+    "file": "entirelypetscoupons.json"
+  },
+  "envato.com": {
+    "name": "Envato Coupons",
+    "site": "https://couponfollow.com/site/envato.com",
+    "file": "envatocoupons.json"
+  },
+  "epson.com": {
+    "name": "Epson US Coupons",
+    "site": "https://couponfollow.com/site/epson.com",
+    "file": "epsonuscoupons.json"
+  },
+  "erincondren.com": {
+    "name": "Erin Condren Coupons",
+    "site": "https://couponfollow.com/site/erincondren.com",
+    "file": "erincondrencoupons.json"
+  },
+  "ernestjones.co.uk": {
+    "name": "Ernest Jones Coupons",
+    "site": "https://couponfollow.com/site/ernestjones.co.uk",
+    "file": "ernestjonescoupons.json"
+  },
+  "etnies.com": {
+    "name": "Etnies Coupons",
+    "site": "https://couponfollow.com/site/etnies.com",
+    "file": "etniescoupons.json"
+  },
+  "eufylife.com": {
+    "name": "eufy Coupons",
+    "site": "https://couponfollow.com/site/eufylife.com",
+    "file": "eufycoupons.json"
+  },
+  "eurocarparts.com": {
+    "name": "Euro Car Parts Coupons",
+    "site": "https://couponfollow.com/site/eurocarparts.com",
+    "file": "eurocarpartscoupons.json"
+  },
+  "everlast.com": {
+    "name": "Everlast Coupons",
+    "site": "https://couponfollow.com/site/everlast.com",
+    "file": "everlastcoupons.json"
+  },
+  "everything5pounds.com": {
+    "name": "Everything5Pounds Coupons",
+    "site": "https://couponfollow.com/site/everything5pounds.com",
+    "file": "everything5poundscoupons.json"
+  },
+  "evo.com": {
+    "name": "evo Coupons",
+    "site": "https://couponfollow.com/site/evo.com",
+    "file": "evocoupons.json"
+  },
+  "expedia.ca": {
+    "name": "Expedia Canada Coupons",
+    "site": "https://couponfollow.com/site/expedia.ca",
+    "file": "expediacanadacoupons.json"
+  },
+  "expedia.com": {
+    "name": "Expedia Coupons",
+    "site": "https://couponfollow.com/site/expedia.com",
+    "file": "expediacoupons.json"
+  },
+  "express.com": {
+    "name": "Express Coupons",
+    "site": "https://couponfollow.com/site/express.com",
+    "file": "expresscoupons.json"
+  },
+  "eyebuydirect.com": {
+    "name": "EyeBuyDirect Coupons",
+    "site": "https://couponfollow.com/site/eyebuydirect.com",
+    "file": "eyebuydirectcoupons.json"
+  },
+  "eyeglasses.com": {
+    "name": "Eyeglasses.com Coupons",
+    "site": "https://couponfollow.com/site/eyeglasses.com",
+    "file": "eyeglassescomcoupons.json"
+  },
+  "f-secure.com": {
+    "name": "F-Secure Coupons",
+    "site": "https://couponfollow.com/site/f-secure.com",
+    "file": "fsecurecoupons.json"
+  },
+  "fabfitfun.com": {
+    "name": "FabFitFun Coupons",
+    "site": "https://couponfollow.com/site/fabfitfun.com",
+    "file": "fabfitfuncoupons.json"
+  },
+  "facetheory.com": {
+    "name": "facetheory Coupons",
+    "site": "https://couponfollow.com/site/facetheory.com",
+    "file": "facetheorycoupons.json"
+  },
+  "factory.jcrew.com": {
+    "name": "Factory.jcrew.com Coupons",
+    "site": "https://couponfollow.com/site/factory.jcrew.com",
+    "file": "factoryjcrewcomcoupons.json"
+  },
+  "fahertybrand.com": {
+    "name": "Faherty Coupons",
+    "site": "https://couponfollow.com/site/fahertybrand.com",
+    "file": "fahertycoupons.json"
+  },
+  "famousfootwear.com": {
+    "name": "Famous Footwear Coupons",
+    "site": "https://couponfollow.com/site/famousfootwear.com",
+    "file": "famousfootwearcoupons.json"
+  },
+  "fanatics.com": {
+    "name": "Fanatics Coupons",
+    "site": "https://couponfollow.com/site/fanatics.com",
+    "file": "fanaticscoupons.json"
+  },
+  "fandango.com": {
+    "name": "Fandango Coupons",
+    "site": "https://couponfollow.com/site/fandango.com",
+    "file": "fandangocoupons.json"
+  },
+  "fansedge.com": {
+    "name": "FansEdge Coupons",
+    "site": "https://couponfollow.com/site/fansedge.com",
+    "file": "fansedgecoupons.json"
+  },
+  "farfetch.com": {
+    "name": "FARFETCH Coupons",
+    "site": "https://couponfollow.com/site/farfetch.com",
+    "file": "farfetchcoupons.json"
+  },
+  "fashionnova.com": {
+    "name": "Fashion Nova Coupons",
+    "site": "https://couponfollow.com/site/fashionnova.com",
+    "file": "fashionnovacoupons.json"
+  },
+  "fastestvpn.com": {
+    "name": "FastestVPN Coupons",
+    "site": "https://couponfollow.com/site/fastestvpn.com",
+    "file": "fastestvpncoupons.json"
+  },
+  "fatbraintoys.com": {
+    "name": "Fat Brain Toys Coupons",
+    "site": "https://couponfollow.com/site/fatbraintoys.com",
+    "file": "fatbraintoyscoupons.json"
+  },
+  "fathead.com": {
+    "name": "Fathead Coupons",
+    "site": "https://couponfollow.com/site/fathead.com",
+    "file": "fatheadcoupons.json"
+  },
+  "fc-moto.de": {
+    "name": "FC-Moto Coupons",
+    "site": "https://couponfollow.com/site/fc-moto.de",
+    "file": "fcmotocoupons.json"
+  },
+  "findmypast.com": {
+    "name": "Find My Past Coupons",
+    "site": "https://couponfollow.com/site/findmypast.com",
+    "file": "findmypastcoupons.json"
+  },
+  "finishline.com": {
+    "name": "Finish Line Coupons",
+    "site": "https://couponfollow.com/site/finishline.com",
+    "file": "finishlinecoupons.json"
+  },
+  "flannels.com": {
+    "name": "Flannels Coupons",
+    "site": "https://couponfollow.com/site/flannels.com",
+    "file": "flannelscoupons.json"
+  },
+  "fleetfeet.com": {
+    "name": "Fleet Feet (formerly Jack Rabbit) Coupons",
+    "site": "https://couponfollow.com/site/fleetfeet.com",
+    "file": "fleetfeetformerlyjackrabbitcoupons.json"
+  },
+  "flexispot.com": {
+    "name": "FlexiSpot Coupons",
+    "site": "https://couponfollow.com/site/flexispot.com",
+    "file": "flexispotcoupons.json"
+  },
+  "floom.com": {
+    "name": "Floom Coupons",
+    "site": "https://couponfollow.com/site/floom.com",
+    "file": "floomcoupons.json"
+  },
+  "footlocker.com": {
+    "name": "Foot Locker Coupons",
+    "site": "https://couponfollow.com/site/footlocker.com",
+    "file": "footlockercoupons.json"
+  },
+  "footasylum.com": {
+    "name": "Footasylum Coupons",
+    "site": "https://couponfollow.com/site/footasylum.com",
+    "file": "footasylumcoupons.json"
+  },
+  "forever21.com": {
+    "name": "Forever 21 Coupons",
+    "site": "https://couponfollow.com/site/forever21.com",
+    "file": "forever21coupons.json"
+  },
+  "forhims.com": {
+    "name": "Forhims.com Coupons",
+    "site": "https://couponfollow.com/site/forhims.com",
+    "file": "forhimscomcoupons.json"
+  },
+  "fossil.co.uk": {
+    "name": "Fossil Coupons",
+    "site": "https://couponfollow.com/site/fossil.co.uk",
+    "file": "fossilcoupons.json"
+  },
+  "fossil.com": {
+    "name": "Fossil Coupons",
+    "site": "https://couponfollow.com/site/fossil.com",
+    "file": "fossilcoupons.json"
+  },
+  "foxylocks.com": {
+    "name": "Foxy Locks Coupons",
+    "site": "https://couponfollow.com/site/foxylocks.com",
+    "file": "foxylockscoupons.json"
+  },
+  "fragrancenet.com": {
+    "name": "Fragrancenet Coupons",
+    "site": "https://couponfollow.com/site/fragrancenet.com",
+    "file": "fragrancenetcoupons.json"
+  },
+  "fragrancex.com": {
+    "name": "FragranceX Coupons",
+    "site": "https://couponfollow.com/site/fragrancex.com",
+    "file": "fragrancexcoupons.json"
+  },
+  "framebridge.com": {
+    "name": "FrameBridge Coupons",
+    "site": "https://couponfollow.com/site/framebridge.com",
+    "file": "framebridgecoupons.json"
+  },
+  "fraserhart.co.uk": {
+    "name": "Fraser Hart Coupons",
+    "site": "https://couponfollow.com/site/fraserhart.co.uk",
+    "file": "fraserhartcoupons.json"
+  },
+  "fredericks.com": {
+    "name": "Frederick's Of Hollywood Coupons",
+    "site": "https://couponfollow.com/site/fredericks.com",
+    "file": "fredericksofhollywoodcoupons.json"
+  },
+  "freepeople.com": {
+    "name": "Free People Coupons",
+    "site": "https://couponfollow.com/site/freepeople.com",
+    "file": "freepeoplecoupons.json"
+  },
+  "freetaxusa.com": {
+    "name": "FreeTaxUSA Coupons",
+    "site": "https://couponfollow.com/site/freetaxusa.com",
+    "file": "freetaxusacoupons.json"
+  },
+  "fresh.com": {
+    "name": "Fresh Coupons",
+    "site": "https://couponfollow.com/site/fresh.com",
+    "file": "freshcoupons.json"
+  },
+  "freshdirect.com": {
+    "name": "FreshDirect Coupons",
+    "site": "https://couponfollow.com/site/freshdirect.com",
+    "file": "freshdirectcoupons.json"
+  },
+  "ftd.com": {
+    "name": "Ftd Flowers Coupons",
+    "site": "https://couponfollow.com/site/ftd.com",
+    "file": "ftdflowerscoupons.json"
+  },
+  "funko.com": {
+    "name": "Funko Coupons",
+    "site": "https://couponfollow.com/site/funko.com",
+    "file": "funkocoupons.json"
+  },
+  "funkypigeon.com": {
+    "name": "Funky Pigeon Coupons",
+    "site": "https://couponfollow.com/site/funkypigeon.com",
+    "file": "funkypigeoncoupons.json"
+  },
+  "furnitureinfashion.net": {
+    "name": "Furniture in Fashion Coupons",
+    "site": "https://couponfollow.com/site/furnitureinfashion.net",
+    "file": "furnitureinfashioncoupons.json"
+  },
+  "g2a.com": {
+    "name": "G2A Coupons",
+    "site": "https://couponfollow.com/site/g2a.com",
+    "file": "g2acoupons.json"
+  },
+  "game.co.uk": {
+    "name": "Game Coupons",
+    "site": "https://couponfollow.com/site/game.co.uk",
+    "file": "gamecoupons.json"
+  },
+  "gamestop.com": {
+    "name": "Gamestop Coupons",
+    "site": "https://couponfollow.com/site/gamestop.com",
+    "file": "gamestopcoupons.json"
+  },
+  "gap.com": {
+    "name": "Gap Coupons",
+    "site": "https://couponfollow.com/site/gap.com",
+    "file": "gapcoupons.json"
+  },
+  "gapfactory.com": {
+    "name": "Gap Factory Coupons",
+    "site": "https://couponfollow.com/site/gapfactory.com",
+    "file": "gapfactorycoupons.json"
+  },
+  "gardenbuildingsdirect.co.uk": {
+    "name": "Garden Buildings Direct Coupons",
+    "site": "https://couponfollow.com/site/gardenbuildingsdirect.co.uk",
+    "file": "gardenbuildingsdirectcoupons.json"
+  },
+  "gardenfurniturecentre.co.uk": {
+    "name": "Garden Furniture Centre Coupons",
+    "site": "https://couponfollow.com/site/gardenfurniturecentre.co.uk",
+    "file": "gardenfurniturecentrecoupons.json"
+  },
+  "gardeners.com": {
+    "name": "Gardener's Supply Coupons",
+    "site": "https://couponfollow.com/site/gardeners.com",
+    "file": "gardenerssupplycoupons.json"
+  },
+  "garmin.com": {
+    "name": "Garmin Coupons",
+    "site": "https://couponfollow.com/site/garmin.com",
+    "file": "garmincoupons.json"
+  },
+  "gazelle.com": {
+    "name": "Gazelle Coupons",
+    "site": "https://couponfollow.com/site/gazelle.com",
+    "file": "gazellecoupons.json"
+  },
+  "george.com": {
+    "name": "George At Asda Coupons",
+    "site": "https://couponfollow.com/site/george.com",
+    "file": "georgeatasdacoupons.json"
+  },
+  "getqardio.com": {
+    "name": "Getqardio.com Coupons",
+    "site": "https://couponfollow.com/site/getqardio.com",
+    "file": "getqardiocomcoupons.json"
+  },
+  "ghdhair.com": {
+    "name": "ghd hair Coupons",
+    "site": "https://couponfollow.com/site/ghdhair.com",
+    "file": "ghdhaircoupons.json"
+  },
+  "ghost.co.uk": {
+    "name": "Ghost London Coupons",
+    "site": "https://couponfollow.com/site/ghost.co.uk",
+    "file": "ghostlondoncoupons.json"
+  },
+  "giftcards.com": {
+    "name": "GiftCards.com Coupons",
+    "site": "https://couponfollow.com/site/giftcards.com",
+    "file": "giftcardscomcoupons.json"
+  },
+  "gilt.com": {
+    "name": "Gilt Coupons",
+    "site": "https://couponfollow.com/site/gilt.com",
+    "file": "giltcoupons.json"
+  },
+  "glasses.com": {
+    "name": "Glasses.com Coupons",
+    "site": "https://couponfollow.com/site/glasses.com",
+    "file": "glassescomcoupons.json"
+  },
+  "glassesusa.com": {
+    "name": "GlassesUSA.com Coupons",
+    "site": "https://couponfollow.com/site/glassesusa.com",
+    "file": "glassesusacomcoupons.json"
+  },
+  "globalgolf.com": {
+    "name": "Global Golf Coupons",
+    "site": "https://couponfollow.com/site/globalgolf.com",
+    "file": "globalgolfcoupons.json"
+  },
+  "glossier.com": {
+    "name": "Glossier Coupons",
+    "site": "https://couponfollow.com/site/glossier.com",
+    "file": "glossiercoupons.json"
+  },
+  "gnc.com": {
+    "name": "GNC Coupons",
+    "site": "https://couponfollow.com/site/gnc.com",
+    "file": "gnccoupons.json"
+  },
+  "gobble.com": {
+    "name": "Gobble Coupons",
+    "site": "https://couponfollow.com/site/gobble.com",
+    "file": "gobblecoupons.json"
+  },
+  "godaddy.com": {
+    "name": "GoDaddy Coupons",
+    "site": "https://couponfollow.com/site/godaddy.com",
+    "file": "godaddycoupons.json"
+  },
+  "godiva.com": {
+    "name": "Godiva Coupons",
+    "site": "https://couponfollow.com/site/godiva.com",
+    "file": "godivacoupons.json"
+  },
+  "golfgalaxy.com": {
+    "name": "Golf Galaxy Coupons",
+    "site": "https://couponfollow.com/site/golfgalaxy.com",
+    "file": "golfgalaxycoupons.json"
+  },
+  "golfgeardirect.co.uk": {
+    "name": "Golf Gear Direct Coupons",
+    "site": "https://couponfollow.com/site/golfgeardirect.co.uk",
+    "file": "golfgeardirectcoupons.json"
+  },
+  "gopro.com": {
+    "name": "GoPro Coupons",
+    "site": "https://couponfollow.com/site/gopro.com",
+    "file": "goprocoupons.json"
+  },
+  "gpen.com": {
+    "name": "GPen Coupons",
+    "site": "https://couponfollow.com/site/gpen.com",
+    "file": "gpencoupons.json"
+  },
+  "gracobaby.com": {
+    "name": "Graco Baby Coupons",
+    "site": "https://couponfollow.com/site/gracobaby.com",
+    "file": "gracobabycoupons.json"
+  },
+  "greenchef.com": {
+    "name": "Green Chef Coupons",
+    "site": "https://couponfollow.com/site/greenchef.com",
+    "file": "greenchefcoupons.json"
+  },
+  "greenmangaming.com": {
+    "name": "Green Man Gaming Coupons",
+    "site": "https://couponfollow.com/site/greenmangaming.com",
+    "file": "greenmangamingcoupons.json"
+  },
+  "grenade.com": {
+    "name": "Grenade Coupons",
+    "site": "https://couponfollow.com/site/grenade.com",
+    "file": "grenadecoupons.json"
+  },
+  "groupon.ca": {
+    "name": "Groupon Canada Coupons",
+    "site": "https://couponfollow.com/site/groupon.ca",
+    "file": "grouponcanadacoupons.json"
+  },
+  "groupon.co.uk": {
+    "name": "Groupon Coupons",
+    "site": "https://couponfollow.com/site/groupon.co.uk",
+    "file": "grouponcoupons.json"
+  },
+  "groupon.com": {
+    "name": "Groupon Coupons",
+    "site": "https://couponfollow.com/site/groupon.com",
+    "file": "grouponcoupons.json"
+  },
+  "grubhub.com": {
+    "name": "Grubhub Coupons",
+    "site": "https://couponfollow.com/site/grubhub.com",
+    "file": "grubhubcoupons.json"
+  },
+  "gruntstyle.com": {
+    "name": "Grunt Style Coupons",
+    "site": "https://couponfollow.com/site/gruntstyle.com",
+    "file": "gruntstylecoupons.json"
+  },
+  "guess.com": {
+    "name": "Guess Coupons",
+    "site": "https://couponfollow.com/site/guess.com",
+    "file": "guesscoupons.json"
+  },
+  "guessfactory.com": {
+    "name": "Guess Factory Coupons",
+    "site": "https://couponfollow.com/site/guessfactory.com",
+    "file": "guessfactorycoupons.json"
+  },
+  "guitarcenter.com": {
+    "name": "Guitar Center Coupons",
+    "site": "https://couponfollow.com/site/guitarcenter.com",
+    "file": "guitarcentercoupons.json"
+  },
+  "guns.com": {
+    "name": "Guns.com Coupons",
+    "site": "https://couponfollow.com/site/guns.com",
+    "file": "gunscomcoupons.json"
+  },
+  "gusto.com": {
+    "name": "Gusto Coupons",
+    "site": "https://couponfollow.com/site/gusto.com",
+    "file": "gustocoupons.json"
+  },
+  "hm.com": {
+    "name": "H&M Coupons",
+    "site": "https://couponfollow.com/site/hm.com",
+    "file": "hmcoupons.json"
+  },
+  "hrblock.com": {
+    "name": "H&R Block Coupons",
+    "site": "https://couponfollow.com/site/hrblock.com",
+    "file": "hrblockcoupons.json"
+  },
+  "habitat.co.uk": {
+    "name": "Habitat Coupons",
+    "site": "https://couponfollow.com/site/habitat.co.uk",
+    "file": "habitatcoupons.json"
+  },
+  "halfords.com": {
+    "name": "Halfords Coupons",
+    "site": "https://couponfollow.com/site/halfords.com",
+    "file": "halfordscoupons.json"
+  },
+  "halloweencostumes.com": {
+    "name": "Halloween Costumes Coupons",
+    "site": "https://couponfollow.com/site/halloweencostumes.com",
+    "file": "halloweencostumescoupons.json"
+  },
+  "hammacher.com": {
+    "name": "Hammacher Schlemmer Coupons",
+    "site": "https://couponfollow.com/site/hammacher.com",
+    "file": "hammacherschlemmercoupons.json"
+  },
+  "handy.com": {
+    "name": "Handy.com Coupons",
+    "site": "https://couponfollow.com/site/handy.com",
+    "file": "handycomcoupons.json"
+  },
+  "hanes.com": {
+    "name": "Hanes Coupons",
+    "site": "https://couponfollow.com/site/hanes.com",
+    "file": "hanescoupons.json"
+  },
+  "hannaandersson.com": {
+    "name": "Hanna Andersson Coupons",
+    "site": "https://couponfollow.com/site/hannaandersson.com",
+    "file": "hannaanderssoncoupons.json"
+  },
+  "harryanddavid.com": {
+    "name": "Harry and David Coupons",
+    "site": "https://couponfollow.com/site/harryanddavid.com",
+    "file": "harryanddavidcoupons.json"
+  },
+  "harveynichols.com": {
+    "name": "Harvey Nichols Coupons",
+    "site": "https://couponfollow.com/site/harveynichols.com",
+    "file": "harveynicholscoupons.json"
+  },
+  "havenly.com": {
+    "name": "Havenly Coupons",
+    "site": "https://couponfollow.com/site/havenly.com",
+    "file": "havenlycoupons.json"
+  },
+  "hayneedle.com": {
+    "name": "Hayneedle Coupons",
+    "site": "https://couponfollow.com/site/hayneedle.com",
+    "file": "hayneedlecoupons.json"
+  },
+  "hbo.com": {
+    "name": "HBO Store Coupons",
+    "site": "https://couponfollow.com/site/hbo.com",
+    "file": "hbostorecoupons.json"
+  },
+  "helixsleep.com": {
+    "name": "Helix Sleep Coupons",
+    "site": "https://couponfollow.com/site/helixsleep.com",
+    "file": "helixsleepcoupons.json"
+  },
+  "hellofresh.com": {
+    "name": "HelloFresh Coupons",
+    "site": "https://couponfollow.com/site/hellofresh.com",
+    "file": "hellofreshcoupons.json"
+  },
+  "hellotushy.com": {
+    "name": "Hellotushy.com Coupons",
+    "site": "https://couponfollow.com/site/hellotushy.com",
+    "file": "hellotushycomcoupons.json"
+  },
+  "hempbombs.com": {
+    "name": "Hemp Bombs Coupons",
+    "site": "https://couponfollow.com/site/hempbombs.com",
+    "file": "hempbombscoupons.json"
+  },
+  "herbdoc.com": {
+    "name": "Herbdoc.com Coupons",
+    "site": "https://couponfollow.com/site/herbdoc.com",
+    "file": "herbdoccomcoupons.json"
+  },
+  "hertz.com": {
+    "name": "Hertz Coupons",
+    "site": "https://couponfollow.com/site/hertz.com",
+    "file": "hertzcoupons.json"
+  },
+  "hiphopbling.com": {
+    "name": "Hip Hop Bling Coupons",
+    "site": "https://couponfollow.com/site/hiphopbling.com",
+    "file": "hiphopblingcoupons.json"
+  },
+  "hobbylobby.com": {
+    "name": "Hobby Lobby Coupons",
+    "site": "https://couponfollow.com/site/hobbylobby.com",
+    "file": "hobbylobbycoupons.json"
+  },
+  "holabirdsports.com": {
+    "name": "Holabird Sports Coupons",
+    "site": "https://couponfollow.com/site/holabirdsports.com",
+    "file": "holabirdsportscoupons.json"
+  },
+  "homedepot.ca": {
+    "name": "Home Depot Canada Coupons",
+    "site": "https://couponfollow.com/site/homedepot.ca",
+    "file": "homedepotcanadacoupons.json"
+  },
+  "homedepot.com": {
+    "name": "Home Depot Coupons",
+    "site": "https://couponfollow.com/site/homedepot.com",
+    "file": "homedepotcoupons.json"
+  },
+  "homeaway.com": {
+    "name": "Homeaway® Vacation Rentals Coupons",
+    "site": "https://couponfollow.com/site/homeaway.com",
+    "file": "homeawayvacationrentalscoupons.json"
+  },
+  "honest.com": {
+    "name": "Honest.com Coupons",
+    "site": "https://couponfollow.com/site/honest.com",
+    "file": "honestcomcoupons.json"
+  },
+  "hostgator.com": {
+    "name": "HostGator Coupons",
+    "site": "https://couponfollow.com/site/hostgator.com",
+    "file": "hostgatorcoupons.json"
+  },
+  "hottopic.com": {
+    "name": "Hot Topic Coupons",
+    "site": "https://couponfollow.com/site/hottopic.com",
+    "file": "hottopiccoupons.json"
+  },
+  "hotels.com": {
+    "name": "Hotels.com Coupons",
+    "site": "https://couponfollow.com/site/hotels.com",
+    "file": "hotelscomcoupons.json"
+  },
+  "hotter.com": {
+    "name": "Hotter Shoes Coupons",
+    "site": "https://couponfollow.com/site/hotter.com",
+    "file": "hottershoescoupons.json"
+  },
+  "hotwire.com": {
+    "name": "Hotwire Coupons",
+    "site": "https://couponfollow.com/site/hotwire.com",
+    "file": "hotwirecoupons.json"
+  },
+  "house.com.au": {
+    "name": "House Coupons",
+    "site": "https://couponfollow.com/site/house.com.au",
+    "file": "housecoupons.json"
+  },
+  "houseoffraser.co.uk": {
+    "name": "House Of Fraser Coupons",
+    "site": "https://couponfollow.com/site/houseoffraser.co.uk",
+    "file": "houseoffrasercoupons.json"
+  },
+  "houzz.com": {
+    "name": "Houzz Coupons",
+    "site": "https://couponfollow.com/site/houzz.com",
+    "file": "houzzcoupons.json"
+  },
+  "hp.com": {
+    "name": "HP Coupons",
+    "site": "https://couponfollow.com/site/hp.com",
+    "file": "hpcoupons.json"
+  },
+  "hsn.com": {
+    "name": "HSN Coupons",
+    "site": "https://couponfollow.com/site/hsn.com",
+    "file": "hsncoupons.json"
+  },
+  "huckberry.com": {
+    "name": "Huckberry Coupons",
+    "site": "https://couponfollow.com/site/huckberry.com",
+    "file": "huckberrycoupons.json"
+  },
+  "hugoboss.com": {
+    "name": "Hugo Boss Coupons",
+    "site": "https://couponfollow.com/site/hugoboss.com",
+    "file": "hugobosscoupons.json"
+  },
+  "hukgear.com": {
+    "name": "Huk Gear Coupons",
+    "site": "https://couponfollow.com/site/hukgear.com",
+    "file": "hukgearcoupons.json"
+  },
+  "hulu.com": {
+    "name": "Hulu Coupons",
+    "site": "https://couponfollow.com/site/hulu.com",
+    "file": "hulucoupons.json"
+  },
+  "hurley.com": {
+    "name": "Hurley Coupons",
+    "site": "https://couponfollow.com/site/hurley.com",
+    "file": "hurleycoupons.json"
+  },
+  "hurom.com": {
+    "name": "Hurom Coupons",
+    "site": "https://couponfollow.com/site/hurom.com",
+    "file": "huromcoupons.json"
+  },
+  "hydroflask.com": {
+    "name": "Hydro Flask Coupons",
+    "site": "https://couponfollow.com/site/hydroflask.com",
+    "file": "hydroflaskcoupons.json"
+  },
+  "isawitfirst.com": {
+    "name": "I Saw It First Coupons",
+    "site": "https://couponfollow.com/site/isawitfirst.com",
+    "file": "isawitfirstcoupons.json"
+  },
+  "ibuypower.com": {
+    "name": "iBuyPower Coupons",
+    "site": "https://couponfollow.com/site/ibuypower.com",
+    "file": "ibuypowercoupons.json"
+  },
+  "igourmet.com": {
+    "name": "Igourmet Foods Coupons",
+    "site": "https://couponfollow.com/site/igourmet.com",
+    "file": "igourmetfoodscoupons.json"
+  },
+  "iherb.com": {
+    "name": "iHerb Coupons",
+    "site": "https://couponfollow.com/site/iherb.com",
+    "file": "iherbcoupons.json"
+  },
+  "ikea.com": {
+    "name": "IKEA Coupons",
+    "site": "https://couponfollow.com/site/ikea.com",
+    "file": "ikeacoupons.json"
+  },
+  "illy.com": {
+    "name": "illy Coupons",
+    "site": "https://couponfollow.com/site/illy.com",
+    "file": "illycoupons.json"
+  },
+  "inthestyle.com": {
+    "name": "In The Style Coupons",
+    "site": "https://couponfollow.com/site/inthestyle.com",
+    "file": "inthestylecoupons.json"
+  },
+  "intheswim.com": {
+    "name": "In The Swim Coupons",
+    "site": "https://couponfollow.com/site/intheswim.com",
+    "file": "intheswimcoupons.json"
+  },
+  "informit.com": {
+    "name": "InformIT Coupons",
+    "site": "https://couponfollow.com/site/informit.com",
+    "file": "informitcoupons.json"
+  },
+  "inkcartridges.com": {
+    "name": "Ink Cartridges Coupons",
+    "site": "https://couponfollow.com/site/inkcartridges.com",
+    "file": "inkcartridgescoupons.json"
+  },
+  "inkbox.com": {
+    "name": "Inkbox Coupons",
+    "site": "https://couponfollow.com/site/inkbox.com",
+    "file": "inkboxcoupons.json"
+  },
+  "innovations.com.au": {
+    "name": "Innovations Coupons",
+    "site": "https://couponfollow.com/site/innovations.com.au",
+    "file": "innovationscoupons.json"
+  },
+  "instacart": {
+    "name": "Instacart Coupons",
+    "site": "https://couponfollow.com/site/instacart",
+    "file": "instacartcoupons.json"
+  },
+  "instantprint.co.uk": {
+    "name": "Instaprint Coupons",
+    "site": "https://couponfollow.com/site/instantprint.co.uk",
+    "file": "instaprintcoupons.json"
+  },
+  "ihop.com": {
+    "name": "International House of Pancakes Coupons",
+    "site": "https://couponfollow.com/site/ihop.com",
+    "file": "internationalhouseofpancakescoupons.json"
+  },
+  "intuit.com": {
+    "name": "Intuit Coupons",
+    "site": "https://couponfollow.com/site/intuit.com",
+    "file": "intuitcoupons.json"
+  },
+  "invictastores.com": {
+    "name": "Invicta Stores Coupons",
+    "site": "https://couponfollow.com/site/invictastores.com",
+    "file": "invictastorescoupons.json"
+  },
+  "irobot.com": {
+    "name": "iRobot Coupons",
+    "site": "https://couponfollow.com/site/irobot.com",
+    "file": "irobotcoupons.json"
+  },
+  "istockphoto.com": {
+    "name": "iStock Coupons",
+    "site": "https://couponfollow.com/site/istockphoto.com",
+    "file": "istockcoupons.json"
+  },
+  "itcosmetics.com": {
+    "name": "IT Cosmetics Coupons",
+    "site": "https://couponfollow.com/site/itcosmetics.com",
+    "file": "itcosmeticscoupons.json"
+  },
+  "itead.cc": {
+    "name": "ITEAD Coupons",
+    "site": "https://couponfollow.com/site/itead.cc",
+    "file": "iteadcoupons.json"
+  },
+  "jcrew.com": {
+    "name": "J. Crew Coupons",
+    "site": "https://couponfollow.com/site/jcrew.com",
+    "file": "jcrewcoupons.json"
+  },
+  "jjill.com": {
+    "name": "J. Jill Coupons",
+    "site": "https://couponfollow.com/site/jjill.com",
+    "file": "jjillcoupons.json"
+  },
+  "jpcycles.com": {
+    "name": "J&P Cycles Coupons",
+    "site": "https://couponfollow.com/site/jpcycles.com",
+    "file": "jpcyclescoupons.json"
+  },
+  "jacamo.co.uk": {
+    "name": "Jacamo Coupons",
+    "site": "https://couponfollow.com/site/jacamo.co.uk",
+    "file": "jacamocoupons.json"
+  },
+  "jackwills.com": {
+    "name": "Jack Wills Coupons",
+    "site": "https://couponfollow.com/site/jackwills.com",
+    "file": "jackwillscoupons.json"
+  },
+  "jamplay.com": {
+    "name": "Jam Play Coupons",
+    "site": "https://couponfollow.com/site/jamplay.com",
+    "file": "jamplaycoupons.json"
+  },
+  "jamesallen.com": {
+    "name": "James Allen Coupons",
+    "site": "https://couponfollow.com/site/jamesallen.com",
+    "file": "jamesallencoupons.json"
+  },
+  "jane.com": {
+    "name": "Jane Coupons",
+    "site": "https://couponfollow.com/site/jane.com",
+    "file": "janecoupons.json"
+  },
+  "janieandjack.com": {
+    "name": "Janie and Jack Coupons",
+    "site": "https://couponfollow.com/site/janieandjack.com",
+    "file": "janieandjackcoupons.json"
+  },
+  "jared.com": {
+    "name": "Jared Coupons",
+    "site": "https://couponfollow.com/site/jared.com",
+    "file": "jaredcoupons.json"
+  },
+  "jaybirdsport.com": {
+    "name": "Jaybird Sport Coupons",
+    "site": "https://couponfollow.com/site/jaybirdsport.com",
+    "file": "jaybirdsportcoupons.json"
+  },
+  "jbl.com": {
+    "name": "JBL Coupons",
+    "site": "https://couponfollow.com/site/jbl.com",
+    "file": "jblcoupons.json"
+  },
+  "jcpenney.com": {
+    "name": "JCPenney Coupons",
+    "site": "https://couponfollow.com/site/jcpenney.com",
+    "file": "jcpenneycoupons.json"
+  },
+  "jdsports.co.uk": {
+    "name": "Jd Sports Coupons",
+    "site": "https://couponfollow.com/site/jdsports.co.uk",
+    "file": "jdsportscoupons.json"
+  },
+  "jdsports.ie": {
+    "name": "JD Sports Coupons",
+    "site": "https://couponfollow.com/site/jdsports.ie",
+    "file": "jdsportscoupons.json"
+  },
+  "jildorshoes.com": {
+    "name": "Jildor Shoes Coupons",
+    "site": "https://couponfollow.com/site/jildorshoes.com",
+    "file": "jildorshoescoupons.json"
+  },
+  "joann.com": {
+    "name": "JoAnn Coupons",
+    "site": "https://couponfollow.com/site/joann.com",
+    "file": "joanncoupons.json"
+  },
+  "joebrowns.co.uk": {
+    "name": "Joe Browns Coupons",
+    "site": "https://couponfollow.com/site/joebrowns.co.uk",
+    "file": "joebrownscoupons.json"
+  },
+  "joefresh.com": {
+    "name": "Joe Fresh Coupons",
+    "site": "https://couponfollow.com/site/joefresh.com",
+    "file": "joefreshcoupons.json"
+  },
+  "joesnewbalanceoutlet.com": {
+    "name": "Joe's New Balance Coupons",
+    "site": "https://couponfollow.com/site/joesnewbalanceoutlet.com",
+    "file": "joesnewbalancecoupons.json"
+  },
+  "johnlewis.com": {
+    "name": "John Lewis Coupons",
+    "site": "https://couponfollow.com/site/johnlewis.com",
+    "file": "johnlewiscoupons.json"
+  },
+  "johnstonmurphy.com": {
+    "name": "Johnston and Murphy Coupons",
+    "site": "https://couponfollow.com/site/johnstonmurphy.com",
+    "file": "johnstonandmurphycoupons.json"
+  },
+  "jonathanadler.com": {
+    "name": "Jonathan Adler Coupons",
+    "site": "https://couponfollow.com/site/jonathanadler.com",
+    "file": "jonathanadlercoupons.json"
+  },
+  "josbank.com": {
+    "name": "Jos A Bank Coupons",
+    "site": "https://couponfollow.com/site/josbank.com",
+    "file": "josabankcoupons.json"
+  },
+  "joules.com": {
+    "name": "Joules Coupons",
+    "site": "https://couponfollow.com/site/joules.com",
+    "file": "joulescoupons.json"
+  },
+  "journeys.com": {
+    "name": "Journeys Coupons",
+    "site": "https://couponfollow.com/site/journeys.com",
+    "file": "journeyscoupons.json"
+  },
+  "jrcigars.com": {
+    "name": "JR Cigars Coupons",
+    "site": "https://couponfollow.com/site/jrcigars.com",
+    "file": "jrcigarscoupons.json"
+  },
+  "justblinds.com": {
+    "name": "Just Blinds Coupons",
+    "site": "https://couponfollow.com/site/justblinds.com",
+    "file": "justblindscoupons.json"
+  },
+  "kjordan.com": {
+    "name": "K Jordan Coupons",
+    "site": "https://couponfollow.com/site/kjordan.com",
+    "file": "kjordancoupons.json"
+  },
+  "kaptest.com": {
+    "name": "Kaplan Test Prep Coupons",
+    "site": "https://couponfollow.com/site/kaptest.com",
+    "file": "kaplantestprepcoupons.json"
+  },
+  "karenmillen.com": {
+    "name": "Karen Millen Coupons",
+    "site": "https://couponfollow.com/site/karenmillen.com",
+    "file": "karenmillencoupons.json"
+  },
+  "kaspersky.com": {
+    "name": "Kaspersky Coupons",
+    "site": "https://couponfollow.com/site/kaspersky.com",
+    "file": "kasperskycoupons.json"
+  },
+  "katesomerville.com": {
+    "name": "Kate Somerville Skincare Coupons",
+    "site": "https://couponfollow.com/site/katesomerville.com",
+    "file": "katesomervilleskincarecoupons.json"
+  },
+  "katespade.com": {
+    "name": "Kate Spade New York Coupons",
+    "site": "https://couponfollow.com/site/katespade.com",
+    "file": "katespadenewyorkcoupons.json"
+  },
+  "kay.com": {
+    "name": "Kay Jewelers Coupons",
+    "site": "https://couponfollow.com/site/kay.com",
+    "file": "kayjewelerscoupons.json"
+  },
+  "keds.com": {
+    "name": "Keds Coupons",
+    "site": "https://couponfollow.com/site/keds.com",
+    "file": "kedscoupons.json"
+  },
+  "keenfootwear.com": {
+    "name": "Keen Coupons",
+    "site": "https://couponfollow.com/site/keenfootwear.com",
+    "file": "keencoupons.json"
+  },
+  "keengardener.co.uk": {
+    "name": "Keen Gardener Coupons",
+    "site": "https://couponfollow.com/site/keengardener.co.uk",
+    "file": "keengardenercoupons.json"
+  },
+  "kendrascott.com": {
+    "name": "Kendra Scott Coupons",
+    "site": "https://couponfollow.com/site/kendrascott.com",
+    "file": "kendrascottcoupons.json"
+  },
+  "kennethcole.com": {
+    "name": "Kenneth Cole Coupons",
+    "site": "https://couponfollow.com/site/kennethcole.com",
+    "file": "kennethcolecoupons.json"
+  },
+  "keurig.com": {
+    "name": "Keurig Coupons",
+    "site": "https://couponfollow.com/site/keurig.com",
+    "file": "keurigcoupons.json"
+  },
+  "kidrobot.com": {
+    "name": "Kidrobot Coupons",
+    "site": "https://couponfollow.com/site/kidrobot.com",
+    "file": "kidrobotcoupons.json"
+  },
+  "kidsfootlocker.com": {
+    "name": "Kids Foot Locker Coupons",
+    "site": "https://couponfollow.com/site/kidsfootlocker.com",
+    "file": "kidsfootlockercoupons.json"
+  },
+  "kiehls.com": {
+    "name": "Kiehl's Coupons",
+    "site": "https://couponfollow.com/site/kiehls.com",
+    "file": "kiehlscoupons.json"
+  },
+  "kiiroo.com": {
+    "name": "KIIROO Coupons",
+    "site": "https://couponfollow.com/site/kiiroo.com",
+    "file": "kiiroocoupons.json"
+  },
+  "kikocosmetics.com": {
+    "name": "KIKO Cosmetics Coupons",
+    "site": "https://couponfollow.com/site/kikocosmetics.com",
+    "file": "kikocosmeticscoupons.json"
+  },
+  "kindsnacks.com": {
+    "name": "KIND Snacks Coupons",
+    "site": "https://couponfollow.com/site/kindsnacks.com",
+    "file": "kindsnackscoupons.json"
+  },
+  "kingsize.com": {
+    "name": "KingSize Coupons",
+    "site": "https://couponfollow.com/site/kingsize.com",
+    "file": "kingsizecoupons.json"
+  },
+  "kinguin.net": {
+    "name": "Kinguin Coupons",
+    "site": "https://couponfollow.com/site/kinguin.net",
+    "file": "kinguincoupons.json"
+  },
+  "kipling-usa.com": {
+    "name": "Kipling Usa Coupons",
+    "site": "https://couponfollow.com/site/kipling-usa.com",
+    "file": "kiplingusacoupons.json"
+  },
+  "kirklands.com": {
+    "name": "Kirkland's Coupons",
+    "site": "https://couponfollow.com/site/kirklands.com",
+    "file": "kirklandscoupons.json"
+  },
+  "kitchenaid.com": {
+    "name": "KitchenAid Coupons",
+    "site": "https://couponfollow.com/site/kitchenaid.com",
+    "file": "kitchenaidcoupons.json"
+  },
+  "kiwico.com": {
+    "name": "KiwiCo Coupons",
+    "site": "https://couponfollow.com/site/kiwico.com",
+    "file": "kiwicocoupons.json"
+  },
+  "kmart.com": {
+    "name": "Kmart Coupons",
+    "site": "https://couponfollow.com/site/kmart.com",
+    "file": "kmartcoupons.json"
+  },
+  "knixwear.com": {
+    "name": "Knix Coupons",
+    "site": "https://couponfollow.com/site/knixwear.com",
+    "file": "knixcoupons.json"
+  },
+  "knockaround.com": {
+    "name": "Knockaround Coupons",
+    "site": "https://couponfollow.com/site/knockaround.com",
+    "file": "knockaroundcoupons.json"
+  },
+  "kohls.com": {
+    "name": "Kohl's Coupons",
+    "site": "https://couponfollow.com/site/kohls.com",
+    "file": "kohlscoupons.json"
+  },
+  "kroger.com": {
+    "name": "Kroger Coupons",
+    "site": "https://couponfollow.com/site/kroger.com",
+    "file": "krogercoupons.json"
+  },
+  "llbean.com": {
+    "name": "L.L.Bean Coupons",
+    "site": "https://couponfollow.com/site/llbean.com",
+    "file": "llbeancoupons.json"
+  },
+  "laredoute.co.uk": {
+    "name": "La Redoute UK Coupons",
+    "site": "https://couponfollow.com/site/laredoute.co.uk",
+    "file": "laredouteukcoupons.json"
+  },
+  "lacoste.com": {
+    "name": "Lacoste Coupons",
+    "site": "https://couponfollow.com/site/lacoste.com",
+    "file": "lacostecoupons.json"
+  },
+  "lampsplus.com": {
+    "name": "Lamps Plus Coupons",
+    "site": "https://couponfollow.com/site/lampsplus.com",
+    "file": "lampspluscoupons.json"
+  },
+  "landsend.com": {
+    "name": "Lands' End Coupons",
+    "site": "https://couponfollow.com/site/landsend.com",
+    "file": "landsendcoupons.json"
+  },
+  "lanebryant.com": {
+    "name": "Lane Bryant Coupons",
+    "site": "https://couponfollow.com/site/lanebryant.com",
+    "file": "lanebryantcoupons.json"
+  },
+  "ledger.com": {
+    "name": "Ledger Wallet Coupons",
+    "site": "https://couponfollow.com/site/ledger.com",
+    "file": "ledgerwalletcoupons.json"
+  },
+  "leekes.co.uk": {
+    "name": "Leekes Coupons",
+    "site": "https://couponfollow.com/site/leekes.co.uk",
+    "file": "leekescoupons.json"
+  },
+  "leesa.com": {
+    "name": "Leesa Coupons",
+    "site": "https://couponfollow.com/site/leesa.com",
+    "file": "leesacoupons.json"
+  },
+  "lego.com": {
+    "name": "Lego Coupons",
+    "site": "https://couponfollow.com/site/lego.com",
+    "file": "legocoupons.json"
+  },
+  "lenovo.com": {
+    "name": "Lenovo Coupons",
+    "site": "https://couponfollow.com/site/lenovo.com",
+    "file": "lenovocoupons.json"
+  },
+  "lenox.com": {
+    "name": "Lenox Coupons",
+    "site": "https://couponfollow.com/site/lenox.com",
+    "file": "lenoxcoupons.json"
+  },
+  "lenskart.com": {
+    "name": "Lenskart Coupons",
+    "site": "https://couponfollow.com/site/lenskart.com",
+    "file": "lenskartcoupons.json"
+  },
+  "levenger.com": {
+    "name": "Levenger Coupons",
+    "site": "https://couponfollow.com/site/levenger.com",
+    "file": "levengercoupons.json"
+  },
+  "levi.com": {
+    "name": "Levi's Coupons",
+    "site": "https://couponfollow.com/site/levi.com",
+    "file": "leviscoupons.json"
+  },
+  "lexingtonlaw.com": {
+    "name": "Lexington Law Coupons",
+    "site": "https://couponfollow.com/site/lexingtonlaw.com",
+    "file": "lexingtonlawcoupons.json"
+  },
+  "lids.com": {
+    "name": "Lids Coupons",
+    "site": "https://couponfollow.com/site/lids.com",
+    "file": "lidscoupons.json"
+  },
+  "lifeextension.com": {
+    "name": "Life Extension Coupons",
+    "site": "https://couponfollow.com/site/lifeextension.com",
+    "file": "lifeextensioncoupons.json"
+  },
+  "lifeisgood.com": {
+    "name": "Life is Good Coupons",
+    "site": "https://couponfollow.com/site/lifeisgood.com",
+    "file": "lifeisgoodcoupons.json"
+  },
+  "lillypulitzer.com": {
+    "name": "Lilly Pulitzer Coupons",
+    "site": "https://couponfollow.com/site/lillypulitzer.com",
+    "file": "lillypulitzercoupons.json"
+  },
+  "lilysilk.com": {
+    "name": "LilySilk Coupons",
+    "site": "https://couponfollow.com/site/lilysilk.com",
+    "file": "lilysilkcoupons.json"
+  },
+  "linkedin.com": {
+    "name": "LinkedIn Coupons",
+    "site": "https://couponfollow.com/site/linkedin.com",
+    "file": "linkedincoupons.json"
+  },
+  "livingsocial.com": {
+    "name": "Living Social Coupons",
+    "site": "https://couponfollow.com/site/livingsocial.com",
+    "file": "livingsocialcoupons.json"
+  },
+  "lkbennett.com": {
+    "name": "Lk Bennett Coupons",
+    "site": "https://couponfollow.com/site/lkbennett.com",
+    "file": "lkbennettcoupons.json"
+  },
+  "lumberliquidators.com": {
+    "name": "LL Flooring Coupons",
+    "site": "https://couponfollow.com/site/lumberliquidators.com",
+    "file": "llflooringcoupons.json"
+  },
+  "localflavor.com": {
+    "name": "Local Flavor Coupons",
+    "site": "https://couponfollow.com/site/localflavor.com",
+    "file": "localflavorcoupons.json"
+  },
+  "loft.com": {
+    "name": "LOFT Coupons",
+    "site": "https://couponfollow.com/site/loft.com",
+    "file": "loftcoupons.json"
+  },
+  "logitech.com": {
+    "name": "Logitech Coupons",
+    "site": "https://couponfollow.com/site/logitech.com",
+    "file": "logitechcoupons.json"
+  },
+  "lookfantastic.com": {
+    "name": "Look Fantastic Coupons",
+    "site": "https://couponfollow.com/site/lookfantastic.com",
+    "file": "lookfantasticcoupons.json"
+  },
+  "lookhuman.com": {
+    "name": "Lookhuman Coupons",
+    "site": "https://couponfollow.com/site/lookhuman.com",
+    "file": "lookhumancoupons.json"
+  },
+  "lordandtaylor.com": {
+    "name": "Lord and Taylor Coupons",
+    "site": "https://couponfollow.com/site/lordandtaylor.com",
+    "file": "lordandtaylorcoupons.json"
+  },
+  "lovehoney.com": {
+    "name": "Lovehoney Coupons",
+    "site": "https://couponfollow.com/site/lovehoney.com",
+    "file": "lovehoneycoupons.json"
+  },
+  "lovelyskin.com": {
+    "name": "Lovely Skin Coupons",
+    "site": "https://couponfollow.com/site/lovelyskin.com",
+    "file": "lovelyskincoupons.json"
+  },
+  "lovepopcards.com": {
+    "name": "LovePop Coupons",
+    "site": "https://couponfollow.com/site/lovepopcards.com",
+    "file": "lovepopcoupons.json"
+  },
+  "lovesac.com": {
+    "name": "Lovesac Coupons",
+    "site": "https://couponfollow.com/site/lovesac.com",
+    "file": "lovesaccoupons.json"
+  },
+  "lowes.com": {
+    "name": "Lowe's Coupons",
+    "site": "https://couponfollow.com/site/lowes.com",
+    "file": "lowescoupons.json"
+  },
+  "luckybrand.com": {
+    "name": "Lucky Brand Coupons",
+    "site": "https://couponfollow.com/site/luckybrand.com",
+    "file": "luckybrandcoupons.json"
+  },
+  "luckyvitamin.com": {
+    "name": "Lucky Vitamin Coupons",
+    "site": "https://couponfollow.com/site/luckyvitamin.com",
+    "file": "luckyvitamincoupons.json"
+  },
+  "lufthansa.com": {
+    "name": "Lufthansa Coupons",
+    "site": "https://couponfollow.com/site/lufthansa.com",
+    "file": "lufthansacoupons.json"
+  },
+  "luisaviaroma.com": {
+    "name": "Luisa Via Roma Coupons",
+    "site": "https://couponfollow.com/site/luisaviaroma.com",
+    "file": "luisaviaromacoupons.json"
+  },
+  "lululemon.com": {
+    "name": "Lululemon Coupons",
+    "site": "https://couponfollow.com/site/lululemon.com",
+    "file": "lululemoncoupons.json"
+  },
+  "lulus.com": {
+    "name": "Lulus Coupons",
+    "site": "https://couponfollow.com/site/lulus.com",
+    "file": "luluscoupons.json"
+  },
+  "mymms.com": {
+    "name": "M&M's Coupons",
+    "site": "https://couponfollow.com/site/mymms.com",
+    "file": "mmscoupons.json"
+  },
+  "macofalltrades.com": {
+    "name": "Mac of All Trades Coupons",
+    "site": "https://couponfollow.com/site/macofalltrades.com",
+    "file": "macofalltradescoupons.json"
+  },
+  "mackweldon.com": {
+    "name": "Mack Weldon Coupons",
+    "site": "https://couponfollow.com/site/mackweldon.com",
+    "file": "mackweldoncoupons.json"
+  },
+  "macpaw.com": {
+    "name": "MacPaw Coupons",
+    "site": "https://couponfollow.com/site/macpaw.com",
+    "file": "macpawcoupons.json"
+  },
+  "macys.com": {
+    "name": "Macy's Coupons",
+    "site": "https://couponfollow.com/site/macys.com",
+    "file": "macyscoupons.json"
+  },
+  "madewell.com": {
+    "name": "Madewell Coupons",
+    "site": "https://couponfollow.com/site/madewell.com",
+    "file": "madewellcoupons.json"
+  },
+  "madison-reed.com": {
+    "name": "Madison Reed Coupons",
+    "site": "https://couponfollow.com/site/madison-reed.com",
+    "file": "madisonreedcoupons.json"
+  },
+  "mancrates.com": {
+    "name": "Man Crates Coupons",
+    "site": "https://couponfollow.com/site/mancrates.com",
+    "file": "mancratescoupons.json"
+  },
+  "marcjacobs.com": {
+    "name": "Marc Jacobs Coupons",
+    "site": "https://couponfollow.com/site/marcjacobs.com",
+    "file": "marcjacobscoupons.json"
+  },
+  "marksandspencer.com": {
+    "name": "Mark & Spencer Coupons",
+    "site": "https://couponfollow.com/site/marksandspencer.com",
+    "file": "markspencercoupons.json"
+  },
+  "marks.com": {
+    "name": "Mark's Coupons",
+    "site": "https://couponfollow.com/site/marks.com",
+    "file": "markscoupons.json"
+  },
+  "matalan.co.uk": {
+    "name": "Matalan Coupons",
+    "site": "https://couponfollow.com/site/matalan.co.uk",
+    "file": "matalancoupons.json"
+  },
+  "mattressfirm.com": {
+    "name": "MattressFIRM Coupons",
+    "site": "https://couponfollow.com/site/mattressfirm.com",
+    "file": "mattressfirmcoupons.json"
+  },
+  "maurices.com": {
+    "name": "Maurices Coupons",
+    "site": "https://couponfollow.com/site/maurices.com",
+    "file": "mauricescoupons.json"
+  },
+  "maximuscle.com": {
+    "name": "Maximuscle Coupons",
+    "site": "https://couponfollow.com/site/maximuscle.com",
+    "file": "maximusclecoupons.json"
+  },
+  "mcafee.com": {
+    "name": "Mcafee Coupons",
+    "site": "https://couponfollow.com/site/mcafee.com",
+    "file": "mcafeecoupons.json"
+  },
+  "meijer.com": {
+    "name": "Meijer Coupons",
+    "site": "https://couponfollow.com/site/meijer.com",
+    "file": "meijercoupons.json"
+  },
+  "merlincycles.com": {
+    "name": "Merlin Cycles Coupons",
+    "site": "https://couponfollow.com/site/merlincycles.com",
+    "file": "merlincyclescoupons.json"
+  },
+  "merrell.com": {
+    "name": "Merrell Coupons",
+    "site": "https://couponfollow.com/site/merrell.com",
+    "file": "merrellcoupons.json"
+  },
+  "michaelkors.com": {
+    "name": "Michael Kors Coupons",
+    "site": "https://couponfollow.com/site/michaelkors.com",
+    "file": "michaelkorscoupons.json"
+  },
+  "michaels.com": {
+    "name": "Michaels Coupons",
+    "site": "https://couponfollow.com/site/michaels.com",
+    "file": "michaelscoupons.json"
+  },
+  "mikasa.com": {
+    "name": "Mikasa Coupons",
+    "site": "https://couponfollow.com/site/mikasa.com",
+    "file": "mikasacoupons.json"
+  },
+  "mileskimball.com": {
+    "name": "Miles Kimball Coupons",
+    "site": "https://couponfollow.com/site/mileskimball.com",
+    "file": "mileskimballcoupons.json"
+  },
+  "mizzenandmain.com": {
+    "name": "Mizzen+Main Coupons",
+    "site": "https://couponfollow.com/site/mizzenandmain.com",
+    "file": "mizzenmaincoupons.json"
+  },
+  "modcloth.com": {
+    "name": "Modcloth Coupons",
+    "site": "https://couponfollow.com/site/modcloth.com",
+    "file": "modclothcoupons.json"
+  },
+  "modernbathroom.com": {
+    "name": "Modern Bathroom Coupons",
+    "site": "https://couponfollow.com/site/modernbathroom.com",
+    "file": "modernbathroomcoupons.json"
+  },
+  "moltonbrown.co.uk": {
+    "name": "Molton Brown UK Coupons",
+    "site": "https://couponfollow.com/site/moltonbrown.co.uk",
+    "file": "moltonbrownukcoupons.json"
+  },
+  "monicavinader.com": {
+    "name": "Monica Vinader Coupons",
+    "site": "https://couponfollow.com/site/monicavinader.com",
+    "file": "monicavinadercoupons.json"
+  },
+  "monoprice.com": {
+    "name": "Monoprice Coupons",
+    "site": "https://couponfollow.com/site/monoprice.com",
+    "file": "monopricecoupons.json"
+  },
+  "monsoon.co.uk": {
+    "name": "Monsoon Coupons",
+    "site": "https://couponfollow.com/site/monsoon.co.uk",
+    "file": "monsooncoupons.json"
+  },
+  "moo.com": {
+    "name": "MOO Coupons",
+    "site": "https://couponfollow.com/site/moo.com",
+    "file": "moocoupons.json"
+  },
+  "moosejaw.com": {
+    "name": "Moosejaw Coupons",
+    "site": "https://couponfollow.com/site/moosejaw.com",
+    "file": "moosejawcoupons.json"
+  },
+  "morphe.com": {
+    "name": "Morphe Coupons",
+    "site": "https://couponfollow.com/site/morphe.com",
+    "file": "morphecoupons.json"
+  },
+  "moss.co.uk": {
+    "name": "Moss Coupons",
+    "site": "https://couponfollow.com/site/moss.co.uk",
+    "file": "mosscoupons.json"
+  },
+  "motosport.com": {
+    "name": "MotoSport Coupons",
+    "site": "https://couponfollow.com/site/motosport.com",
+    "file": "motosportcoupons.json"
+  },
+  "mountainwarehouse.com": {
+    "name": "Mountain Warehouse Coupons",
+    "site": "https://couponfollow.com/site/mountainwarehouse.com",
+    "file": "mountainwarehousecoupons.json"
+  },
+  "mouth.com": {
+    "name": "Mouth Coupons",
+    "site": "https://couponfollow.com/site/mouth.com",
+    "file": "mouthcoupons.json"
+  },
+  "mowdirect.co.uk": {
+    "name": "Mowdirect Coupons",
+    "site": "https://couponfollow.com/site/mowdirect.co.uk",
+    "file": "mowdirectcoupons.json"
+  },
+  "mrsfields.com": {
+    "name": "Mrs. Fields Coupons",
+    "site": "https://couponfollow.com/site/mrsfields.com",
+    "file": "mrsfieldscoupons.json"
+  },
+  "mscdirect.com": {
+    "name": "MSC Direct Coupons",
+    "site": "https://couponfollow.com/site/mscdirect.com",
+    "file": "mscdirectcoupons.json"
+  },
+  "mspy.com": {
+    "name": "mSpy Coupons",
+    "site": "https://couponfollow.com/site/mspy.com",
+    "file": "mspycoupons.json"
+  },
+  "muscleandstrength.com": {
+    "name": "Muscle And Strength Coupons",
+    "site": "https://couponfollow.com/site/muscleandstrength.com",
+    "file": "muscleandstrengthcoupons.json"
+  },
+  "musclefood.com": {
+    "name": "Muscle Food Coupons",
+    "site": "https://couponfollow.com/site/musclefood.com",
+    "file": "musclefoodcoupons.json"
+  },
+  "musiciansfriend.com": {
+    "name": "Musician's Friend Coupons",
+    "site": "https://couponfollow.com/site/musiciansfriend.com",
+    "file": "musiciansfriendcoupons.json"
+  },
+  "mvmtwatches.com": {
+    "name": "MVMT Watches Coupons",
+    "site": "https://couponfollow.com/site/mvmtwatches.com",
+    "file": "mvmtwatchescoupons.json"
+  },
+  "mycorporation.com": {
+    "name": "MyCorporation Coupons",
+    "site": "https://couponfollow.com/site/mycorporation.com",
+    "file": "mycorporationcoupons.json"
+  },
+  "myer.com.au": {
+    "name": "Myer Australia Coupons",
+    "site": "https://couponfollow.com/site/myer.com.au",
+    "file": "myeraustraliacoupons.json"
+  },
+  "myfonts.com": {
+    "name": "Myfonts Coupons",
+    "site": "https://couponfollow.com/site/myfonts.com",
+    "file": "myfontscoupons.json"
+  },
+  "myprotein.com": {
+    "name": "Myprotein Coupons",
+    "site": "https://couponfollow.com/site/myprotein.com",
+    "file": "myproteincoupons.json"
+  },
+  "namecheap.com": {
+    "name": "Namecheap Coupons",
+    "site": "https://couponfollow.com/site/namecheap.com",
+    "file": "namecheapcoupons.json"
+  },
+  "nastygal.com": {
+    "name": "Nasty Gal Coupons",
+    "site": "https://couponfollow.com/site/nastygal.com",
+    "file": "nastygalcoupons.json"
+  },
+  "natchezss.com": {
+    "name": "Natchez Coupons",
+    "site": "https://couponfollow.com/site/natchezss.com",
+    "file": "natchezcoupons.json"
+  },
+  "newbalance.com": {
+    "name": "New Balance Coupons",
+    "site": "https://couponfollow.com/site/newbalance.com",
+    "file": "newbalancecoupons.json"
+  },
+  "nyandcompany.com": {
+    "name": "New York & Company Coupons",
+    "site": "https://couponfollow.com/site/nyandcompany.com",
+    "file": "newyorkcompanycoupons.json"
+  },
+  "newark.com": {
+    "name": "Newark Coupons",
+    "site": "https://couponfollow.com/site/newark.com",
+    "file": "newarkcoupons.json"
+  },
+  "newegg.com": {
+    "name": "Newegg Coupons",
+    "site": "https://couponfollow.com/site/newegg.com",
+    "file": "neweggcoupons.json"
+  },
+  "nflshop.com": {
+    "name": "NFL Shop Coupons",
+    "site": "https://couponfollow.com/site/nflshop.com",
+    "file": "nflshopcoupons.json"
+  },
+  "nike.com": {
+    "name": "Nike Coupons",
+    "site": "https://couponfollow.com/site/nike.com",
+    "file": "nikecoupons.json"
+  },
+  "ninjakitchen.com": {
+    "name": "Ninja Kitchen Coupons",
+    "site": "https://couponfollow.com/site/ninjakitchen.com",
+    "file": "ninjakitchencoupons.json"
+  },
+  "nordstrom.com": {
+    "name": "Nordstrom Coupons",
+    "site": "https://couponfollow.com/site/nordstrom.com",
+    "file": "nordstromcoupons.json"
+  },
+  "nordstromrack.com": {
+    "name": "Nordstrom Rack Coupons",
+    "site": "https://couponfollow.com/site/nordstromrack.com",
+    "file": "nordstromrackcoupons.json"
+  },
+  "nordvpn.com": {
+    "name": "NordVPN Coupons",
+    "site": "https://couponfollow.com/site/nordvpn.com",
+    "file": "nordvpncoupons.json"
+  },
+  "northerntool.com": {
+    "name": "Northern Tool + Equipment Company Coupons",
+    "site": "https://couponfollow.com/site/northerntool.com",
+    "file": "northerntoolequipmentcompanycoupons.json"
+  },
+  "notonthehighstreet.com": {
+    "name": "Not On The High Street Coupons",
+    "site": "https://couponfollow.com/site/notonthehighstreet.com",
+    "file": "notonthehighstreetcoupons.json"
+  },
+  "nvidia.com": {
+    "name": "Nvidia Coupons",
+    "site": "https://couponfollow.com/site/nvidia.com",
+    "file": "nvidiacoupons.json"
+  },
+  "oakfurnitureland.co.uk": {
+    "name": "Oak Furnitureland Coupons",
+    "site": "https://couponfollow.com/site/oakfurnitureland.co.uk",
+    "file": "oakfurniturelandcoupons.json"
+  },
+  "oakley.com": {
+    "name": "Oakley Coupons",
+    "site": "https://couponfollow.com/site/oakley.com",
+    "file": "oakleycoupons.json"
+  },
+  "ocado.com": {
+    "name": "Ocado Coupons",
+    "site": "https://couponfollow.com/site/ocado.com",
+    "file": "ocadocoupons.json"
+  },
+  "oculus.com": {
+    "name": "Oculus Coupons",
+    "site": "https://couponfollow.com/site/oculus.com",
+    "file": "oculuscoupons.json"
+  },
+  "officedepot.com": {
+    "name": "Office Depot Coupons",
+    "site": "https://couponfollow.com/site/officedepot.com",
+    "file": "officedepotcoupons.json"
+  },
+  "office.co.uk": {
+    "name": "OFFICE Shoes Coupons",
+    "site": "https://couponfollow.com/site/office.co.uk",
+    "file": "officeshoescoupons.json"
+  },
+  "ohpolly.com": {
+    "name": "Oh Polly Coupons",
+    "site": "https://couponfollow.com/site/ohpolly.com",
+    "file": "ohpollycoupons.json"
+  },
+  "oldnavy.com": {
+    "name": "Old Navy Coupons",
+    "site": "https://couponfollow.com/site/oldnavy.com",
+    "file": "oldnavycoupons.json"
+  },
+  "olivegarden.com": {
+    "name": "Olive Garden Coupons",
+    "site": "https://couponfollow.com/site/olivegarden.com",
+    "file": "olivegardencoupons.json"
+  },
+  "omahasteaks.com": {
+    "name": "Omaha Steaks Coupons",
+    "site": "https://couponfollow.com/site/omahasteaks.com",
+    "file": "omahasteakscoupons.json"
+  },
+  "onehanesplace.com": {
+    "name": "One Hanes Place Coupons",
+    "site": "https://couponfollow.com/site/onehanesplace.com",
+    "file": "onehanesplacecoupons.json"
+  },
+  "onekingslane.com": {
+    "name": "One Kings Lane Coupons",
+    "site": "https://couponfollow.com/site/onekingslane.com",
+    "file": "onekingslanecoupons.json"
+  },
+  "onetravel.com": {
+    "name": "One Travel Coupons",
+    "site": "https://couponfollow.com/site/onetravel.com",
+    "file": "onetravelcoupons.json"
+  },
+  "oneill.com": {
+    "name": "Oneill Sports Coupons",
+    "site": "https://couponfollow.com/site/oneill.com",
+    "file": "oneillsportscoupons.json"
+  },
+  "onlinefabricstore.com": {
+    "name": "Online Fabric Store Coupons",
+    "site": "https://couponfollow.com/site/onlinefabricstore.com",
+    "file": "onlinefabricstorecoupons.json"
+  },
+  "onnit.com": {
+    "name": "Onnit Coupons",
+    "site": "https://couponfollow.com/site/onnit.com",
+    "file": "onnitcoupons.json"
+  },
+  "opticsplanet.com": {
+    "name": "OpticsPlanet Coupons",
+    "site": "https://couponfollow.com/site/opticsplanet.com",
+    "file": "opticsplanetcoupons.json"
+  },
+  "orbitz.com": {
+    "name": "Orbitz Coupons",
+    "site": "https://couponfollow.com/site/orbitz.com",
+    "file": "orbitzcoupons.json"
+  },
+  "orientaltrading.com": {
+    "name": "Oriental Trading Coupons",
+    "site": "https://couponfollow.com/site/orientaltrading.com",
+    "file": "orientaltradingcoupons.json"
+  },
+  "origin.com": {
+    "name": "Origin Coupons",
+    "site": "https://couponfollow.com/site/origin.com",
+    "file": "origincoupons.json"
+  },
+  "originpc.com": {
+    "name": "Origin Pc Corporation Coupons",
+    "site": "https://couponfollow.com/site/originpc.com",
+    "file": "originpccorporationcoupons.json"
+  },
+  "originalpenguin.com": {
+    "name": "Original Penguin Coupons",
+    "site": "https://couponfollow.com/site/originalpenguin.com",
+    "file": "originalpenguincoupons.json"
+  },
+  "origins.com": {
+    "name": "Origins Coupons",
+    "site": "https://couponfollow.com/site/origins.com",
+    "file": "originscoupons.json"
+  },
+  "orlebarbrown.com": {
+    "name": "Orlebar Brown Coupons",
+    "site": "https://couponfollow.com/site/orlebarbrown.com",
+    "file": "orlebarbrowncoupons.json"
+  },
+  "orvis.com": {
+    "name": "Orvis Coupons",
+    "site": "https://couponfollow.com/site/orvis.com",
+    "file": "orviscoupons.json"
+  },
+  "otterbox.com": {
+    "name": "OtterBox Coupons",
+    "site": "https://couponfollow.com/site/otterbox.com",
+    "file": "otterboxcoupons.json"
+  },
+  "ouidad.com": {
+    "name": "Ouidad Coupons",
+    "site": "https://couponfollow.com/site/ouidad.com",
+    "file": "ouidadcoupons.json"
+  },
+  "outback.com": {
+    "name": "Outback Steakhouse Coupons",
+    "site": "https://couponfollow.com/site/outback.com",
+    "file": "outbacksteakhousecoupons.json"
+  },
+  "overclockers.co.uk": {
+    "name": "Overclockers Uk Coupons",
+    "site": "https://couponfollow.com/site/overclockers.co.uk",
+    "file": "overclockersukcoupons.json"
+  },
+  "overnightprints.com": {
+    "name": "Overnight Prints Coupons",
+    "site": "https://couponfollow.com/site/overnightprints.com",
+    "file": "overnightprintscoupons.json"
+  },
+  "overstock.com": {
+    "name": "Overstock Coupons",
+    "site": "https://couponfollow.com/site/overstock.com",
+    "file": "overstockcoupons.json"
+  },
+  "overtons.com": {
+    "name": "Overtons Coupons",
+    "site": "https://couponfollow.com/site/overtons.com",
+    "file": "overtonscoupons.json"
+  },
+  "pacsun.com": {
+    "name": "PacSun Coupons",
+    "site": "https://couponfollow.com/site/pacsun.com",
+    "file": "pacsuncoupons.json"
+  },
+  "palmettostatearmory.com": {
+    "name": "Palmetto State Armory Coupons",
+    "site": "https://couponfollow.com/site/palmettostatearmory.com",
+    "file": "palmettostatearmorycoupons.json"
+  },
+  "pampers.com": {
+    "name": "Pampers Coupons",
+    "site": "https://couponfollow.com/site/pampers.com",
+    "file": "pamperscoupons.json"
+  },
+  "pandahall.com": {
+    "name": "PandaHall Coupons",
+    "site": "https://couponfollow.com/site/pandahall.com",
+    "file": "pandahallcoupons.json"
+  },
+  "papajohns.com": {
+    "name": "Papa Johns Coupons",
+    "site": "https://couponfollow.com/site/papajohns.com",
+    "file": "papajohnscoupons.json"
+  },
+  "papamurphys.com": {
+    "name": "Papa Murphys Coupons",
+    "site": "https://couponfollow.com/site/papamurphys.com",
+    "file": "papamurphyscoupons.json"
+  },
+  "parallels.com": {
+    "name": "Parallels Coupons",
+    "site": "https://couponfollow.com/site/parallels.com",
+    "file": "parallelscoupons.json"
+  },
+  "parksleepfly.com": {
+    "name": "ParkSleepFly Coupons",
+    "site": "https://couponfollow.com/site/parksleepfly.com",
+    "file": "parksleepflycoupons.json"
+  },
+  "partycity.com": {
+    "name": "Party City Coupons",
+    "site": "https://couponfollow.com/site/partycity.com",
+    "file": "partycitycoupons.json"
+  },
+  "patagonia.com": {
+    "name": "Patagonia Coupons",
+    "site": "https://couponfollow.com/site/patagonia.com",
+    "file": "patagoniacoupons.json"
+  },
+  "patpat.com": {
+    "name": "PatPat Coupons",
+    "site": "https://couponfollow.com/site/patpat.com",
+    "file": "patpatcoupons.json"
+  },
+  "paulfredrick.com": {
+    "name": "Paul Fredrick Coupons",
+    "site": "https://couponfollow.com/site/paulfredrick.com",
+    "file": "paulfredrickcoupons.json"
+  },
+  "paulsmith.co.uk": {
+    "name": "Paul Smith UK Coupons",
+    "site": "https://couponfollow.com/site/paulsmith.co.uk",
+    "file": "paulsmithukcoupons.json"
+  },
+  "paulaschoice.com": {
+    "name": "Paula's Choice Coupons",
+    "site": "https://couponfollow.com/site/paulaschoice.com",
+    "file": "paulaschoicecoupons.json"
+  },
+  "peets.com": {
+    "name": "Peet's Coffee & Tea Coupons",
+    "site": "https://couponfollow.com/site/peets.com",
+    "file": "peetscoffeeteacoupons.json"
+  },
+  "pelacase.com": {
+    "name": "Pela Case Coupons",
+    "site": "https://couponfollow.com/site/pelacase.com",
+    "file": "pelacasecoupons.json"
+  },
+  "peoplesjewellers.com": {
+    "name": "Peoples Jewellers Coupons",
+    "site": "https://couponfollow.com/site/peoplesjewellers.com",
+    "file": "peoplesjewellerscoupons.json"
+  },
+  "pepboys.com": {
+    "name": "Pep Boys Coupons",
+    "site": "https://couponfollow.com/site/pepboys.com",
+    "file": "pepboyscoupons.json"
+  },
+  "perfumania.com": {
+    "name": "Perfumania Coupons",
+    "site": "https://couponfollow.com/site/perfumania.com",
+    "file": "perfumaniacoupons.json"
+  },
+  "perfume.com": {
+    "name": "Perfume.com Coupons",
+    "site": "https://couponfollow.com/site/perfume.com",
+    "file": "perfumecomcoupons.json"
+  },
+  "personalcreations.com": {
+    "name": "Personal Creations Coupons",
+    "site": "https://couponfollow.com/site/personalcreations.com",
+    "file": "personalcreationscoupons.json"
+  },
+  "personalizationmall.com": {
+    "name": "Personalization Mall Coupons",
+    "site": "https://couponfollow.com/site/personalizationmall.com",
+    "file": "personalizationmallcoupons.json"
+  },
+  "petco.com": {
+    "name": "Petco Coupons",
+    "site": "https://couponfollow.com/site/petco.com",
+    "file": "petcocoupons.json"
+  },
+  "petermillar.com": {
+    "name": "Peter Millar Coupons",
+    "site": "https://couponfollow.com/site/petermillar.com",
+    "file": "petermillarcoupons.json"
+  },
+  "petmate.com": {
+    "name": "Petmate Coupons",
+    "site": "https://couponfollow.com/site/petmate.com",
+    "file": "petmatecoupons.json"
+  },
+  "petsafe.net": {
+    "name": "Petsafe Coupons",
+    "site": "https://couponfollow.com/site/petsafe.net",
+    "file": "petsafecoupons.json"
+  },
+  "petsmart.com": {
+    "name": "Petsmart Coupons",
+    "site": "https://couponfollow.com/site/petsmart.com",
+    "file": "petsmartcoupons.json"
+  },
+  "pfaltzgraff.com": {
+    "name": "Pfaltzgraff Coupons",
+    "site": "https://couponfollow.com/site/pfaltzgraff.com",
+    "file": "pfaltzgraffcoupons.json"
+  },
+  "philosophy.com": {
+    "name": "Philosophy Coupons",
+    "site": "https://couponfollow.com/site/philosophy.com",
+    "file": "philosophycoupons.json"
+  },
+  "phone.com": {
+    "name": "Phone.com Coupons",
+    "site": "https://couponfollow.com/site/phone.com",
+    "file": "phonecomcoupons.json"
+  },
+  "pier1.com": {
+    "name": "Pier 1 Imports Coupons",
+    "site": "https://couponfollow.com/site/pier1.com",
+    "file": "pier1importscoupons.json"
+  },
+  "pinkblushmaternity.com": {
+    "name": "PinkBlush Coupons",
+    "site": "https://couponfollow.com/site/pinkblushmaternity.com",
+    "file": "pinkblushcoupons.json"
+  },
+  "pizzahut.com": {
+    "name": "Pizza Hut Coupons",
+    "site": "https://couponfollow.com/site/pizzahut.com",
+    "file": "pizzahutcoupons.json"
+  },
+  "prettylittlething.com": {
+    "name": "PLT Coupons",
+    "site": "https://couponfollow.com/site/prettylittlething.com",
+    "file": "pltcoupons.json"
+  },
+  "pnf.com": {
+    "name": "Pnf.com Coupons",
+    "site": "https://couponfollow.com/site/pnf.com",
+    "file": "pnfcomcoupons.json"
+  },
+  "polaroid.com": {
+    "name": "Polaroid Coupons",
+    "site": "https://couponfollow.com/site/polaroid.com",
+    "file": "polaroidcoupons.json"
+  },
+  "popsockets.com": {
+    "name": "PopSockets Coupons",
+    "site": "https://couponfollow.com/site/popsockets.com",
+    "file": "popsocketscoupons.json"
+  },
+  "poshmark.com": {
+    "name": "Poshmark Coupons",
+    "site": "https://couponfollow.com/site/poshmark.com",
+    "file": "poshmarkcoupons.json"
+  },
+  "postmates.com": {
+    "name": "Postmates Coupons",
+    "site": "https://couponfollow.com/site/postmates.com",
+    "file": "postmatescoupons.json"
+  },
+  "prana.com": {
+    "name": "Prana Coupons",
+    "site": "https://couponfollow.com/site/prana.com",
+    "file": "pranacoupons.json"
+  },
+  "prettylittlething.us": {
+    "name": "Pretty Little Thing Coupons",
+    "site": "https://couponfollow.com/site/prettylittlething.us",
+    "file": "prettylittlethingcoupons.json"
+  },
+  "prettylittlething.com.au": {
+    "name": "PrettyLittleThing Coupons",
+    "site": "https://couponfollow.com/site/prettylittlething.com.au",
+    "file": "prettylittlethingcoupons.json"
+  },
+  "priceline.com": {
+    "name": "Priceline Coupons",
+    "site": "https://couponfollow.com/site/priceline.com",
+    "file": "pricelinecoupons.json"
+  },
+  "primary.com": {
+    "name": "Primary.com Coupons",
+    "site": "https://couponfollow.com/site/primary.com",
+    "file": "primarycomcoupons.json"
+  },
+  "princesspolly.com": {
+    "name": "Princess Polly Coupons",
+    "site": "https://couponfollow.com/site/princesspolly.com",
+    "file": "princesspollycoupons.json"
+  },
+  "prioritytire.com": {
+    "name": "Priority Tire Coupons",
+    "site": "https://couponfollow.com/site/prioritytire.com",
+    "file": "prioritytirecoupons.json"
+  },
+  "proaudiostar.com": {
+    "name": "Proaudiostar Coupons",
+    "site": "https://couponfollow.com/site/proaudiostar.com",
+    "file": "proaudiostarcoupons.json"
+  },
+  "psprint.com": {
+    "name": "PsPrint Coupons",
+    "site": "https://couponfollow.com/site/psprint.com",
+    "file": "psprintcoupons.json"
+  },
+  "puma.com": {
+    "name": "Puma Coupons",
+    "site": "https://couponfollow.com/site/puma.com",
+    "file": "pumacoupons.json"
+  },
+  "pupbox.com": {
+    "name": "PupBox Coupons",
+    "site": "https://couponfollow.com/site/pupbox.com",
+    "file": "pupboxcoupons.json"
+  },
+  "q-park.co.uk": {
+    "name": "Q-Park Coupons",
+    "site": "https://couponfollow.com/site/q-park.co.uk",
+    "file": "qparkcoupons.json"
+  },
+  "qalo.com": {
+    "name": "QALO Coupons",
+    "site": "https://couponfollow.com/site/qalo.com",
+    "file": "qalocoupons.json"
+  },
+  "qatarairways.com": {
+    "name": "Qatar Airways Coupons",
+    "site": "https://couponfollow.com/site/qatarairways.com",
+    "file": "qatarairwayscoupons.json"
+  },
+  "qpjewellers.com": {
+    "name": "Qp Jewellers Coupons",
+    "site": "https://couponfollow.com/site/qpjewellers.com",
+    "file": "qpjewellerscoupons.json"
+  },
+  "quayaustralia.com": {
+    "name": "Quay Australia Coupons",
+    "site": "https://couponfollow.com/site/quayaustralia.com",
+    "file": "quayaustraliacoupons.json"
+  },
+  "questnutrition.com": {
+    "name": "Quest Nutrition Coupons",
+    "site": "https://couponfollow.com/site/questnutrition.com",
+    "file": "questnutritioncoupons.json"
+  },
+  "quickbooks.intuit.com": {
+    "name": "QuickBooks Coupons",
+    "site": "https://couponfollow.com/site/quickbooks.intuit.com",
+    "file": "quickbookscoupons.json"
+  },
+  "quicken.com": {
+    "name": "Quicken Coupons",
+    "site": "https://couponfollow.com/site/quicken.com",
+    "file": "quickencoupons.json"
+  },
+  "quiksilver.com": {
+    "name": "Quiksilver Coupons",
+    "site": "https://couponfollow.com/site/quiksilver.com",
+    "file": "quiksilvercoupons.json"
+  },
+  "quill.com": {
+    "name": "Quill Coupons",
+    "site": "https://couponfollow.com/site/quill.com",
+    "file": "quillcoupons.json"
+  },
+  "quizclothing.co.uk": {
+    "name": "Quiz Clothing Coupons",
+    "site": "https://couponfollow.com/site/quizclothing.co.uk",
+    "file": "quizclothingcoupons.json"
+  },
+  "qustodio.com": {
+    "name": "Qustodio Coupons",
+    "site": "https://couponfollow.com/site/qustodio.com",
+    "file": "qustodiocoupons.json"
+  },
+  "qvc.com": {
+    "name": "Qvc Coupons",
+    "site": "https://couponfollow.com/site/qvc.com",
+    "file": "qvccoupons.json"
+  },
+  "r1concepts.com": {
+    "name": "R1 Concepts Coupons",
+    "site": "https://couponfollow.com/site/r1concepts.com",
+    "file": "r1conceptscoupons.json"
+  },
+  "rag-bone.com": {
+    "name": "Rag & Bone Coupons",
+    "site": "https://couponfollow.com/site/rag-bone.com",
+    "file": "ragbonecoupons.json"
+  },
+  "raise.com": {
+    "name": "Raise Coupons",
+    "site": "https://couponfollow.com/site/raise.com",
+    "file": "raisecoupons.json"
+  },
+  "ralphlauren.com": {
+    "name": "Ralph Lauren Coupons",
+    "site": "https://couponfollow.com/site/ralphlauren.com",
+    "file": "ralphlaurencoupons.json"
+  },
+  "rawlings.com": {
+    "name": "Rawlings Coupons",
+    "site": "https://couponfollow.com/site/rawlings.com",
+    "file": "rawlingscoupons.json"
+  },
+  "ray-ban.com": {
+    "name": "Ray-Ban Coupons",
+    "site": "https://couponfollow.com/site/ray-ban.com",
+    "file": "raybancoupons.json"
+  },
+  "razer.com": {
+    "name": "Razer Coupons",
+    "site": "https://couponfollow.com/site/razer.com",
+    "file": "razercoupons.json"
+  },
+  "rebeccaminkoff.com": {
+    "name": "Rebecca Minkoff Coupons",
+    "site": "https://couponfollow.com/site/rebeccaminkoff.com",
+    "file": "rebeccaminkoffcoupons.json"
+  },
+  "reddressboutique.com": {
+    "name": "Red Dress Boutique Coupons",
+    "site": "https://couponfollow.com/site/reddressboutique.com",
+    "file": "reddressboutiquecoupons.json"
+  },
+  "redroof.com": {
+    "name": "Red Roof Coupons",
+    "site": "https://couponfollow.com/site/redroof.com",
+    "file": "redroofcoupons.json"
+  },
+  "redbubble.com": {
+    "name": "Redbubble Coupons",
+    "site": "https://couponfollow.com/site/redbubble.com",
+    "file": "redbubblecoupons.json"
+  },
+  "reebok.com": {
+    "name": "Reebok Coupons",
+    "site": "https://couponfollow.com/site/reebok.com",
+    "file": "reebokcoupons.json"
+  },
+  "reeds.com": {
+    "name": "Reeds Jewelers Coupons",
+    "site": "https://couponfollow.com/site/reeds.com",
+    "file": "reedsjewelerscoupons.json"
+  },
+  "reef.com": {
+    "name": "Reef Coupons",
+    "site": "https://couponfollow.com/site/reef.com",
+    "file": "reefcoupons.json"
+  },
+  "rei.com": {
+    "name": "REI Coupons",
+    "site": "https://couponfollow.com/site/rei.com",
+    "file": "reicoupons.json"
+  },
+  "renttherunway.com": {
+    "name": "Rent The Runway Coupons",
+    "site": "https://couponfollow.com/site/renttherunway.com",
+    "file": "renttherunwaycoupons.json"
+  },
+  "replacements.com": {
+    "name": "Replacements, Ltd Coupons",
+    "site": "https://couponfollow.com/site/replacements.com",
+    "file": "replacementsltdcoupons.json"
+  },
+  "restaurant.com": {
+    "name": "Restaurant.com Coupons",
+    "site": "https://couponfollow.com/site/restaurant.com",
+    "file": "restaurantcomcoupons.json"
+  },
+  "restorationhardware.com": {
+    "name": "Restoration Hardware Coupons",
+    "site": "https://couponfollow.com/site/restorationhardware.com",
+    "file": "restorationhardwarecoupons.json"
+  },
+  "reverb.com": {
+    "name": "Reverb Coupons",
+    "site": "https://couponfollow.com/site/reverb.com",
+    "file": "reverbcoupons.json"
+  },
+  "revitalash.com": {
+    "name": "Revitalash Coupons",
+    "site": "https://couponfollow.com/site/revitalash.com",
+    "file": "revitalashcoupons.json"
+  },
+  "revzilla.com": {
+    "name": "Revzilla Coupons",
+    "site": "https://couponfollow.com/site/revzilla.com",
+    "file": "revzillacoupons.json"
+  },
+  "rhone.com": {
+    "name": "Rhone Coupons",
+    "site": "https://couponfollow.com/site/rhone.com",
+    "file": "rhonecoupons.json"
+  },
+  "ripleys.com": {
+    "name": "Ripley's Coupons",
+    "site": "https://couponfollow.com/site/ripleys.com",
+    "file": "ripleyscoupons.json"
+  },
+  "riverisland.com": {
+    "name": "River Island Coupons",
+    "site": "https://couponfollow.com/site/riverisland.com",
+    "file": "riverislandcoupons.json"
+  },
+  "roadrunnersports.com": {
+    "name": "Road Runner Sports Coupons",
+    "site": "https://couponfollow.com/site/roadrunnersports.com",
+    "file": "roadrunnersportscoupons.json"
+  },
+  "roamans.com": {
+    "name": "Roaman's Coupons",
+    "site": "https://couponfollow.com/site/roamans.com",
+    "file": "roamanscoupons.json"
+  },
+  "rockbottomgolf.com": {
+    "name": "Rock Bottom Golf Coupons",
+    "site": "https://couponfollow.com/site/rockbottomgolf.com",
+    "file": "rockbottomgolfcoupons.json"
+  },
+  "rockabilia.com": {
+    "name": "Rockabilia Coupons",
+    "site": "https://couponfollow.com/site/rockabilia.com",
+    "file": "rockabiliacoupons.json"
+  },
+  "rocketlawyer.com": {
+    "name": "Rocket Lawyer Coupons",
+    "site": "https://couponfollow.com/site/rocketlawyer.com",
+    "file": "rocketlawyercoupons.json"
+  },
+  "roku.com": {
+    "name": "Roku Coupons",
+    "site": "https://couponfollow.com/site/roku.com",
+    "file": "rokucoupons.json"
+  },
+  "rona.ca": {
+    "name": "Rona Coupons",
+    "site": "https://couponfollow.com/site/rona.ca",
+    "file": "ronacoupons.json"
+  },
+  "rosegal.com": {
+    "name": "RoseGal Coupons",
+    "site": "https://couponfollow.com/site/rosegal.com",
+    "file": "rosegalcoupons.json"
+  },
+  "rosettastone.com": {
+    "name": "Rosetta Stone Coupons",
+    "site": "https://couponfollow.com/site/rosettastone.com",
+    "file": "rosettastonecoupons.json"
+  },
+  "ross-simons.com": {
+    "name": "Ross-Simons Coupons",
+    "site": "https://couponfollow.com/site/ross-simons.com",
+    "file": "rosssimonscoupons.json"
+  },
+  "rothys.com": {
+    "name": "Rothy's Coupons",
+    "site": "https://couponfollow.com/site/rothys.com",
+    "file": "rothyscoupons.json"
+  },
+  "roxy.com": {
+    "name": "Roxy Coupons",
+    "site": "https://couponfollow.com/site/roxy.com",
+    "file": "roxycoupons.json"
+  },
+  "rue21.com": {
+    "name": "rue21 Coupons",
+    "site": "https://couponfollow.com/site/rue21.com",
+    "file": "rue21coupons.json"
+  },
+  "rugsusa.com": {
+    "name": "Rugs Usa Coupons",
+    "site": "https://couponfollow.com/site/rugsusa.com",
+    "file": "rugsusacoupons.json"
+  },
+  "runderwear.co.uk": {
+    "name": "Runderwear Coupons",
+    "site": "https://couponfollow.com/site/runderwear.co.uk",
+    "file": "runderwearcoupons.json"
+  },
+  "rvca.com": {
+    "name": "Rvca Coupons",
+    "site": "https://couponfollow.com/site/rvca.com",
+    "file": "rvcacoupons.json"
+  },
+  "saatchiart.com": {
+    "name": "Saatchi Art Coupons",
+    "site": "https://couponfollow.com/site/saatchiart.com",
+    "file": "saatchiartcoupons.json"
+  },
+  "saksfifthavenue.com": {
+    "name": "Saks Fifth Avenue Coupons",
+    "site": "https://couponfollow.com/site/saksfifthavenue.com",
+    "file": "saksfifthavenuecoupons.json"
+  },
+  "saksoff5th.com": {
+    "name": "Saks OFF 5TH Coupons",
+    "site": "https://couponfollow.com/site/saksoff5th.com",
+    "file": "saksoff5thcoupons.json"
+  },
+  "samsclub.com": {
+    "name": "Sam's Club Coupons",
+    "site": "https://couponfollow.com/site/samsclub.com",
+    "file": "samsclubcoupons.json"
+  },
+  "sanity.com.au": {
+    "name": "Sanity.com.au Coupons",
+    "site": "https://couponfollow.com/site/sanity.com.au",
+    "file": "sanitycomaucoupons.json"
+  },
+  "seatgeek.com": {
+    "name": "SeatGeek Coupons",
+    "site": "https://couponfollow.com/site/seatgeek.com",
+    "file": "seatgeekcoupons.json"
+  },
+  "seetickets.com": {
+    "name": "See Tickets Coupons",
+    "site": "https://couponfollow.com/site/seetickets.com",
+    "file": "seeticketscoupons.json"
+  },
+  "sephora.com": {
+    "name": "Sephora Coupons",
+    "site": "https://couponfollow.com/site/sephora.com",
+    "file": "sephoracoupons.json"
+  },
+  "sharkclean.com": {
+    "name": "Shark Coupons",
+    "site": "https://couponfollow.com/site/sharkclean.com",
+    "file": "sharkcoupons.json"
+  },
+  "sheds.co.uk": {
+    "name": "Sheds UK Coupons",
+    "site": "https://couponfollow.com/site/sheds.co.uk",
+    "file": "shedsukcoupons.json"
+  },
+  "shefit.com": {
+    "name": "SHEFIT Coupons",
+    "site": "https://couponfollow.com/site/shefit.com",
+    "file": "shefitcoupons.json"
+  },
+  "shein.com": {
+    "name": "SHEIN Coupons",
+    "site": "https://couponfollow.com/site/shein.com",
+    "file": "sheincoupons.json"
+  },
+  "shein.co.uk": {
+    "name": "SHEIN UK Coupons",
+    "site": "https://couponfollow.com/site/shein.co.uk",
+    "file": "sheinukcoupons.json"
+  },
+  "shethinx.com": {
+    "name": "Shethinx.com Coupons",
+    "site": "https://couponfollow.com/site/shethinx.com",
+    "file": "shethinxcomcoupons.json"
+  },
+  "shoezone.com": {
+    "name": "Shoe Zone Coupons",
+    "site": "https://couponfollow.com/site/shoezone.com",
+    "file": "shoezonecoupons.json"
+  },
+  "shopakira.com": {
+    "name": "Shopakira.com Coupons",
+    "site": "https://couponfollow.com/site/shopakira.com",
+    "file": "shopakiracomcoupons.json"
+  },
+  "shophq.com": {
+    "name": "ShopHQ Coupons",
+    "site": "https://couponfollow.com/site/shophq.com",
+    "file": "shophqcoupons.json"
+  },
+  "shopvida.com": {
+    "name": "Shopvida.com Coupons",
+    "site": "https://couponfollow.com/site/shopvida.com",
+    "file": "shopvidacomcoupons.json"
+  },
+  "shopwss.com": {
+    "name": "Shopwss.com Coupons",
+    "site": "https://couponfollow.com/site/shopwss.com",
+    "file": "shopwsscomcoupons.json"
+  },
+  "shutterfly.com": {
+    "name": "Shutterfly Coupons",
+    "site": "https://couponfollow.com/site/shutterfly.com",
+    "file": "shutterflycoupons.json"
+  },
+  "simpletire.com": {
+    "name": "Simple Tire Coupons",
+    "site": "https://couponfollow.com/site/simpletire.com",
+    "file": "simpletirecoupons.json"
+  },
+  "simplehuman.com": {
+    "name": "Simplehuman Coupons",
+    "site": "https://couponfollow.com/site/simplehuman.com",
+    "file": "simplehumancoupons.json"
+  },
+  "simplytoimpress.com": {
+    "name": "Simply to Impress Coupons",
+    "site": "https://couponfollow.com/site/simplytoimpress.com",
+    "file": "simplytoimpresscoupons.json"
+  },
+  "siriusxm.com": {
+    "name": "Siriusxm.com Coupons",
+    "site": "https://couponfollow.com/site/siriusxm.com",
+    "file": "siriusxmcomcoupons.json"
+  },
+  "size.co.uk": {
+    "name": "Size? Coupons",
+    "site": "https://couponfollow.com/site/size.co.uk",
+    "file": "sizecoupons.json"
+  },
+  "skillshare.com": {
+    "name": "Skillshare Coupons",
+    "site": "https://couponfollow.com/site/skillshare.com",
+    "file": "skillsharecoupons.json"
+  },
+  "skullcandy.com": {
+    "name": "Skullcandy Coupons",
+    "site": "https://couponfollow.com/site/skullcandy.com",
+    "file": "skullcandycoupons.json"
+  },
+  "smiledirectclub.com": {
+    "name": "Smile Direct Club Coupons",
+    "site": "https://couponfollow.com/site/smiledirectclub.com",
+    "file": "smiledirectclubcoupons.json"
+  },
+  "smkw.com": {
+    "name": "Smoky Mountain Knife Works Coupons",
+    "site": "https://couponfollow.com/site/smkw.com",
+    "file": "smokymountainknifeworkscoupons.json"
+  },
+  "sneakersnstuff.com": {
+    "name": "Sneakersnstuff Coupons",
+    "site": "https://couponfollow.com/site/sneakersnstuff.com",
+    "file": "sneakersnstuffcoupons.json"
+  },
+  "society6.com": {
+    "name": "Society6 Coupons",
+    "site": "https://couponfollow.com/site/society6.com",
+    "file": "society6coupons.json"
+  },
+  "softsurroundings.com": {
+    "name": "Soft Surroundings Coupons",
+    "site": "https://couponfollow.com/site/softsurroundings.com",
+    "file": "softsurroundingscoupons.json"
+  },
+  "sokoglam.com": {
+    "name": "Soko Glam Coupons",
+    "site": "https://couponfollow.com/site/sokoglam.com",
+    "file": "sokoglamcoupons.json"
+  },
+  "sonos.com": {
+    "name": "Sonos Coupons",
+    "site": "https://couponfollow.com/site/sonos.com",
+    "file": "sonoscoupons.json"
+  },
+  "spanx.com": {
+    "name": "Spanx Coupons",
+    "site": "https://couponfollow.com/site/spanx.com",
+    "file": "spanxcoupons.json"
+  },
+  "sportchek.ca": {
+    "name": "Sport Chek Coupons",
+    "site": "https://couponfollow.com/site/sportchek.ca",
+    "file": "sportchekcoupons.json"
+  },
+  "sportsdirect.com": {
+    "name": "Sports Direct Coupons",
+    "site": "https://couponfollow.com/site/sportsdirect.com",
+    "file": "sportsdirectcoupons.json"
+  },
+  "sportsmanswarehouse.com": {
+    "name": "Sportsmans Warehouse Coupons",
+    "site": "https://couponfollow.com/site/sportsmanswarehouse.com",
+    "file": "sportsmanswarehousecoupons.json"
+  },
+  "sportsshoes.com": {
+    "name": "Sportsshoes Coupons",
+    "site": "https://couponfollow.com/site/sportsshoes.com",
+    "file": "sportsshoescoupons.json"
+  },
+  "stadiumgoods.com": {
+    "name": "Stadium Goods Coupons",
+    "site": "https://couponfollow.com/site/stadiumgoods.com",
+    "file": "stadiumgoodscoupons.json"
+  },
+  "stamps.com": {
+    "name": "Stamps.com Coupons",
+    "site": "https://couponfollow.com/site/stamps.com",
+    "file": "stampscomcoupons.json"
+  },
+  "staples.ca": {
+    "name": "Staples Canada Coupons",
+    "site": "https://couponfollow.com/site/staples.ca",
+    "file": "staplescanadacoupons.json"
+  },
+  "staples.com": {
+    "name": "Staples Coupons",
+    "site": "https://couponfollow.com/site/staples.com",
+    "file": "staplescoupons.json"
+  },
+  "steinmart.com": {
+    "name": "Stein Mart Coupons",
+    "site": "https://couponfollow.com/site/steinmart.com",
+    "file": "steinmartcoupons.json"
+  },
+  "step2.com": {
+    "name": "Step2 Coupons",
+    "site": "https://couponfollow.com/site/step2.com",
+    "file": "step2coupons.json"
+  },
+  "stevemadden.com": {
+    "name": "Steve Madden Coupons",
+    "site": "https://couponfollow.com/site/stevemadden.com",
+    "file": "stevemaddencoupons.json"
+  },
+  "sundancecatalog.com": {
+    "name": "Sundance Catalog Coupons",
+    "site": "https://couponfollow.com/site/sundancecatalog.com",
+    "file": "sundancecatalogcoupons.json"
+  },
+  "sunglasshut.com": {
+    "name": "Sunglass Hut Coupons",
+    "site": "https://couponfollow.com/site/sunglasshut.com",
+    "file": "sunglasshutcoupons.json"
+  },
+  "superdrug.com": {
+    "name": "Superdrug Coupons",
+    "site": "https://couponfollow.com/site/superdrug.com",
+    "file": "superdrugcoupons.json"
+  },
+  "superdry.com": {
+    "name": "Superdry Coupons",
+    "site": "https://couponfollow.com/site/superdry.com",
+    "file": "superdrycoupons.json"
+  },
+  "tactics.com": {
+    "name": "Tactics Coupons",
+    "site": "https://couponfollow.com/site/tactics.com",
+    "file": "tacticscoupons.json"
+  },
+  "talbots.com": {
+    "name": "Talbots Coupons",
+    "site": "https://couponfollow.com/site/talbots.com",
+    "file": "talbotscoupons.json"
+  },
+  "tanga.com": {
+    "name": "Tanga Coupons",
+    "site": "https://couponfollow.com/site/tanga.com",
+    "file": "tangacoupons.json"
+  },
+  "target.com": {
+    "name": "Target Coupons",
+    "site": "https://couponfollow.com/site/target.com",
+    "file": "targetcoupons.json"
+  },
+  "taschen.com": {
+    "name": "TASCHEN Coupons",
+    "site": "https://couponfollow.com/site/taschen.com",
+    "file": "taschencoupons.json"
+  },
+  "taskrabbit.com": {
+    "name": "Taskrabbit Coupons",
+    "site": "https://couponfollow.com/site/taskrabbit.com",
+    "file": "taskrabbitcoupons.json"
+  },
+  "taxact.com": {
+    "name": "TaxAct Coupons",
+    "site": "https://couponfollow.com/site/taxact.com",
+    "file": "taxactcoupons.json"
+  },
+  "taxslayer.com": {
+    "name": "TaxSlayer Coupons",
+    "site": "https://couponfollow.com/site/taxslayer.com",
+    "file": "taxslayercoupons.json"
+  },
+  "techsmith.com": {
+    "name": "TechSmith Coupons",
+    "site": "https://couponfollow.com/site/techsmith.com",
+    "file": "techsmithcoupons.json"
+  },
+  "tedbaker.com": {
+    "name": "Ted Baker Coupons",
+    "site": "https://couponfollow.com/site/tedbaker.com",
+    "file": "tedbakercoupons.json"
+  },
+  "teleflora.com": {
+    "name": "Teleflora Coupons",
+    "site": "https://couponfollow.com/site/teleflora.com",
+    "file": "telefloracoupons.json"
+  },
+  "telescope.com": {
+    "name": "Telescope.com Coupons",
+    "site": "https://couponfollow.com/site/telescope.com",
+    "file": "telescopecomcoupons.json"
+  },
+  "telestream.net": {
+    "name": "Telestream Coupons",
+    "site": "https://couponfollow.com/site/telestream.net",
+    "file": "telestreamcoupons.json"
+  },
+  "teva.com": {
+    "name": "Teva Coupons",
+    "site": "https://couponfollow.com/site/teva.com",
+    "file": "tevacoupons.json"
+  },
+  "tgw.com": {
+    "name": "TGW - The Golf Warehouse Coupons",
+    "site": "https://couponfollow.com/site/tgw.com",
+    "file": "tgwthegolfwarehousecoupons.json"
+  },
+  "theoutnet.com": {
+    "name": "The Outnet Coupons",
+    "site": "https://couponfollow.com/site/theoutnet.com",
+    "file": "theoutnetcoupons.json"
+  },
+  "thepaperstore.com": {
+    "name": "The Paper Store Coupons",
+    "site": "https://couponfollow.com/site/thepaperstore.com",
+    "file": "thepaperstorecoupons.json"
+  },
+  "thesource.ca": {
+    "name": "The Source Coupons",
+    "site": "https://couponfollow.com/site/thesource.ca",
+    "file": "thesourcecoupons.json"
+  },
+  "thetoyshop.com": {
+    "name": "The Toy Shop Coupons",
+    "site": "https://couponfollow.com/site/thetoyshop.com",
+    "file": "thetoyshopcoupons.json"
+  },
+  "thewalkingcompany.com": {
+    "name": "The Walking Company Coupons",
+    "site": "https://couponfollow.com/site/thewalkingcompany.com",
+    "file": "thewalkingcompanycoupons.json"
+  },
+  "theworks.co.uk": {
+    "name": "The Works Coupons",
+    "site": "https://couponfollow.com/site/theworks.co.uk",
+    "file": "theworkscoupons.json"
+  },
+  "thehipstore.co.uk": {
+    "name": "Thehipstore.co.uk Coupons",
+    "site": "https://couponfollow.com/site/thehipstore.co.uk",
+    "file": "thehipstorecoukcoupons.json"
+  },
+  "thingsremembered.com": {
+    "name": "Things Remembered Coupons",
+    "site": "https://couponfollow.com/site/thingsremembered.com",
+    "file": "thingsrememberedcoupons.json"
+  },
+  "thompsoncigar.com": {
+    "name": "Thompson Cigar Coupons",
+    "site": "https://couponfollow.com/site/thompsoncigar.com",
+    "file": "thompsoncigarcoupons.json"
+  },
+  "threadless.com": {
+    "name": "Threadless Coupons",
+    "site": "https://couponfollow.com/site/threadless.com",
+    "file": "threadlesscoupons.json"
+  },
+  "thrifty.com": {
+    "name": "Thrifty Car Rental Coupons",
+    "site": "https://couponfollow.com/site/thrifty.com",
+    "file": "thriftycarrentalcoupons.json"
+  },
+  "tillys.com": {
+    "name": "Tillys Coupons",
+    "site": "https://couponfollow.com/site/tillys.com",
+    "file": "tillyscoupons.json"
+  },
+  "timberland.com": {
+    "name": "Timberland.com Coupons",
+    "site": "https://couponfollow.com/site/timberland.com",
+    "file": "timberlandcomcoupons.json"
+  },
+  "timbuk2.com": {
+    "name": "Timbuk2 Coupons",
+    "site": "https://couponfollow.com/site/timbuk2.com",
+    "file": "timbuk2coupons.json"
+  },
+  "timex.com": {
+    "name": "Timex Coupons",
+    "site": "https://couponfollow.com/site/timex.com",
+    "file": "timexcoupons.json"
+  },
+  "tirerack.com": {
+    "name": "Tire Rack Coupons",
+    "site": "https://couponfollow.com/site/tirerack.com",
+    "file": "tirerackcoupons.json"
+  },
+  "tirebuyer.com": {
+    "name": "Tirebuyer Coupons",
+    "site": "https://couponfollow.com/site/tirebuyer.com",
+    "file": "tirebuyercoupons.json"
+  },
+  "tiremart.com": {
+    "name": "Tiremart Coupons",
+    "site": "https://couponfollow.com/site/tiremart.com",
+    "file": "tiremartcoupons.json"
+  },
+  "titan.fitness": {
+    "name": "Titan Fitness Coupons",
+    "site": "https://couponfollow.com/site/titan.fitness",
+    "file": "titanfitnesscoupons.json"
+  },
+  "tjmaxx.tjx.com": {
+    "name": "TJ Maxx Coupons",
+    "site": "https://couponfollow.com/site/tjmaxx.tjx.com",
+    "file": "tjmaxxcoupons.json"
+  },
+  "toddsnyder.com": {
+    "name": "Todd Snyder Coupons",
+    "site": "https://couponfollow.com/site/toddsnyder.com",
+    "file": "toddsnydercoupons.json"
+  },
+  "tommybahama.com": {
+    "name": "Tommy Bahama Coupons",
+    "site": "https://couponfollow.com/site/tommybahama.com",
+    "file": "tommybahamacoupons.json"
+  },
+  "tommy.com": {
+    "name": "Tommy Hilfiger Coupons",
+    "site": "https://couponfollow.com/site/tommy.com",
+    "file": "tommyhilfigercoupons.json"
+  },
+  "toms.com": {
+    "name": "Toms Coupons",
+    "site": "https://couponfollow.com/site/toms.com",
+    "file": "tomscoupons.json"
+  },
+  "tonyrobbins.com": {
+    "name": "Tony Robbins Coupons",
+    "site": "https://couponfollow.com/site/tonyrobbins.com",
+    "file": "tonyrobbinscoupons.json"
+  },
+  "topps.com": {
+    "name": "Topps Coupons",
+    "site": "https://couponfollow.com/site/topps.com",
+    "file": "toppscoupons.json"
+  },
+  "torrid.com": {
+    "name": "Torrid Coupons",
+    "site": "https://couponfollow.com/site/torrid.com",
+    "file": "torridcoupons.json"
+  },
+  "toryburch.com": {
+    "name": "Tory Burch Coupons",
+    "site": "https://couponfollow.com/site/toryburch.com",
+    "file": "toryburchcoupons.json"
+  },
+  "tracfone.com": {
+    "name": "Tracfone Wireless Coupons",
+    "site": "https://couponfollow.com/site/tracfone.com",
+    "file": "tracfonewirelesscoupons.json"
+  },
+  "tractorsupply.com": {
+    "name": "Tractor Supply Coupons",
+    "site": "https://couponfollow.com/site/tractorsupply.com",
+    "file": "tractorsupplycoupons.json"
+  },
+  "tnuck.com": {
+    "name": "Tuckernuck Coupons",
+    "site": "https://couponfollow.com/site/tnuck.com",
+    "file": "tuckernuckcoupons.json"
+  },
+  "tumi.com": {
+    "name": "Tumi Coupons",
+    "site": "https://couponfollow.com/site/tumi.com",
+    "file": "tumicoupons.json"
+  },
+  "turbotax.intuit.com": {
+    "name": "TurboTax Coupons",
+    "site": "https://couponfollow.com/site/turbotax.intuit.com",
+    "file": "turbotaxcoupons.json"
+  },
+  "uscellular.com": {
+    "name": "U.S. Cellular Coupons",
+    "site": "https://couponfollow.com/site/uscellular.com",
+    "file": "uscellularcoupons.json"
+  },
+  "uber.com": {
+    "name": "Uber Coupons",
+    "site": "https://couponfollow.com/site/uber.com",
+    "file": "ubercoupons.json"
+  },
+  "ubereats.com": {
+    "name": "Uber Eats Coupons",
+    "site": "https://couponfollow.com/site/ubereats.com",
+    "file": "ubereatscoupons.json"
+  },
+  "udemy.com": {
+    "name": "Udemy Coupons",
+    "site": "https://couponfollow.com/site/udemy.com",
+    "file": "udemycoupons.json"
+  },
+  "ufcstore.com": {
+    "name": "Ufc Store Coupons",
+    "site": "https://couponfollow.com/site/ufcstore.com",
+    "file": "ufcstorecoupons.json"
+  },
+  "ugg.com": {
+    "name": "UGG Coupons",
+    "site": "https://couponfollow.com/site/ugg.com",
+    "file": "uggcoupons.json"
+  },
+  "uline.com": {
+    "name": "Uline Coupons",
+    "site": "https://couponfollow.com/site/uline.com",
+    "file": "ulinecoupons.json"
+  },
+  "ullapopken.com": {
+    "name": "Ulla Popken Coupons",
+    "site": "https://couponfollow.com/site/ullapopken.com",
+    "file": "ullapopkencoupons.json"
+  },
+  "ulta.com": {
+    "name": "Ulta Coupons",
+    "site": "https://couponfollow.com/site/ulta.com",
+    "file": "ultacoupons.json"
+  },
+  "ultimateears.com": {
+    "name": "Ultimate Ears Coupons",
+    "site": "https://couponfollow.com/site/ultimateears.com",
+    "file": "ultimateearscoupons.json"
+  },
+  "unbeatablesale.com": {
+    "name": "UnbeatableSale Coupons",
+    "site": "https://couponfollow.com/site/unbeatablesale.com",
+    "file": "unbeatablesalecoupons.json"
+  },
+  "uncommongoods.com": {
+    "name": "Uncommon Goods Coupons",
+    "site": "https://couponfollow.com/site/uncommongoods.com",
+    "file": "uncommongoodscoupons.json"
+  },
+  "underarmour.com": {
+    "name": "Under Armour Coupons",
+    "site": "https://couponfollow.com/site/underarmour.com",
+    "file": "underarmourcoupons.json"
+  },
+  "unineed.com": {
+    "name": "Unineed Coupons",
+    "site": "https://couponfollow.com/site/unineed.com",
+    "file": "unineedcoupons.json"
+  },
+  "uniqlo.com": {
+    "name": "UNIQLO Coupons",
+    "site": "https://couponfollow.com/site/uniqlo.com",
+    "file": "uniqlocoupons.json"
+  },
+  "unique-vintage.com": {
+    "name": "Unique Vintage Coupons",
+    "site": "https://couponfollow.com/site/unique-vintage.com",
+    "file": "uniquevintagecoupons.json"
+  },
+  "untilgone.com": {
+    "name": "UntilGone Coupons",
+    "site": "https://couponfollow.com/site/untilgone.com",
+    "file": "untilgonecoupons.json"
+  },
+  "untuckit.com": {
+    "name": "Untuckit Coupons",
+    "site": "https://couponfollow.com/site/untuckit.com",
+    "file": "untuckitcoupons.json"
+  },
+  "upliftdesk.com": {
+    "name": "Uplift Desk Coupons",
+    "site": "https://couponfollow.com/site/upliftdesk.com",
+    "file": "upliftdeskcoupons.json"
+  },
+  "urbandecay.com": {
+    "name": "Urban Decay Coupons",
+    "site": "https://couponfollow.com/site/urbandecay.com",
+    "file": "urbandecaycoupons.json"
+  },
+  "urbanoutfitters.com": {
+    "name": "Urban Outfitters Coupons",
+    "site": "https://couponfollow.com/site/urbanoutfitters.com",
+    "file": "urbanoutfitterscoupons.json"
+  },
+  "urban-planet.com": {
+    "name": "Urban Planet Coupons",
+    "site": "https://couponfollow.com/site/urban-planet.com",
+    "file": "urbanplanetcoupons.json"
+  },
+  "urbanears.com": {
+    "name": "Urbanears Coupons",
+    "site": "https://couponfollow.com/site/urbanears.com",
+    "file": "urbanearscoupons.json"
+  },
+  "urbanstems.com": {
+    "name": "UrbanStems Coupons",
+    "site": "https://couponfollow.com/site/urbanstems.com",
+    "file": "urbanstemscoupons.json"
+  },
+  "uspoloassn.com": {
+    "name": "US Polo Assn Coupons",
+    "site": "https://couponfollow.com/site/uspoloassn.com",
+    "file": "uspoloassncoupons.json"
+  },
+  "vancaro.com": {
+    "name": "Vancaro Coupons",
+    "site": "https://couponfollow.com/site/vancaro.com",
+    "file": "vancarocoupons.json"
+  },
+  "vans.com": {
+    "name": "Vans Coupons",
+    "site": "https://couponfollow.com/site/vans.com",
+    "file": "vanscoupons.json"
+  },
+  "vapordna.com": {
+    "name": "VaporDNA Coupons",
+    "site": "https://couponfollow.com/site/vapordna.com",
+    "file": "vapordnacoupons.json"
+  },
+  "vegas.com": {
+    "name": "Vegas.com Coupons",
+    "site": "https://couponfollow.com/site/vegas.com",
+    "file": "vegascomcoupons.json"
+  },
+  "velvet-tees.com": {
+    "name": "Velvet Tees Coupons",
+    "site": "https://couponfollow.com/site/velvet-tees.com",
+    "file": "velvetteescoupons.json"
+  },
+  "venus.com": {
+    "name": "Venus Swimwear Coupons",
+    "site": "https://couponfollow.com/site/venus.com",
+    "file": "venusswimwearcoupons.json"
+  },
+  "verabradley.com": {
+    "name": "Vera Bradley Coupons",
+    "site": "https://couponfollow.com/site/verabradley.com",
+    "file": "verabradleycoupons.json"
+  },
+  "verizonwireless.com": {
+    "name": "Verizon Coupons",
+    "site": "https://couponfollow.com/site/verizonwireless.com",
+    "file": "verizoncoupons.json"
+  },
+  "verizon.com": {
+    "name": "Verizon Fios Coupons",
+    "site": "https://couponfollow.com/site/verizon.com",
+    "file": "verizonfioscoupons.json"
+  },
+  "vestiairecollective.com": {
+    "name": "Vestiaire Coupons",
+    "site": "https://couponfollow.com/site/vestiairecollective.com",
+    "file": "vestiairecoupons.json"
+  },
+  "vichyusa.com": {
+    "name": "Vichy Coupons",
+    "site": "https://couponfollow.com/site/vichyusa.com",
+    "file": "vichycoupons.json"
+  },
+  "victoriassecret.com": {
+    "name": "Victoria's Secret Coupons",
+    "site": "https://couponfollow.com/site/victoriassecret.com",
+    "file": "victoriassecretcoupons.json"
+  },
+  "vikingbags.com": {
+    "name": "Vikingbags Coupons",
+    "site": "https://couponfollow.com/site/vikingbags.com",
+    "file": "vikingbagscoupons.json"
+  },
+  "vimeo.com": {
+    "name": "Vimeo Coupons",
+    "site": "https://couponfollow.com/site/vimeo.com",
+    "file": "vimeocoupons.json"
+  },
+  "vincecamuto.com": {
+    "name": "Vince Camuto Coupons",
+    "site": "https://couponfollow.com/site/vincecamuto.com",
+    "file": "vincecamutocoupons.json"
+  },
+  "vince.com": {
+    "name": "Vince Coupons",
+    "site": "https://couponfollow.com/site/vince.com",
+    "file": "vincecoupons.json"
+  },
+  "vineyardvines.com": {
+    "name": "Vineyard Vines Coupons",
+    "site": "https://couponfollow.com/site/vineyardvines.com",
+    "file": "vineyardvinescoupons.json"
+  },
+  "vintagetub.com": {
+    "name": "Vintage Tub Coupons",
+    "site": "https://couponfollow.com/site/vintagetub.com",
+    "file": "vintagetubcoupons.json"
+  },
+  "vistaprint.com.au": {
+    "name": "Vistaprint AU Coupons",
+    "site": "https://couponfollow.com/site/vistaprint.com.au",
+    "file": "vistaprintaucoupons.json"
+  },
+  "vistaprint.ca": {
+    "name": "VistaPrint Coupons",
+    "site": "https://couponfollow.com/site/vistaprint.ca",
+    "file": "vistaprintcoupons.json"
+  },
+  "vistaprint.com": {
+    "name": "VistaPrint Coupons",
+    "site": "https://couponfollow.com/site/vistaprint.com",
+    "file": "vistaprintcoupons.json"
+  },
+  "vistaprint.co.uk": {
+    "name": "Vistaprint UK Coupons",
+    "site": "https://couponfollow.com/site/vistaprint.co.uk",
+    "file": "vistaprintukcoupons.json"
+  },
+  "vitabiotics.com": {
+    "name": "Vitabiotics Coupons",
+    "site": "https://couponfollow.com/site/vitabiotics.com",
+    "file": "vitabioticscoupons.json"
+  },
+  "vitacost.com": {
+    "name": "Vitacost Coupons",
+    "site": "https://couponfollow.com/site/vitacost.com",
+    "file": "vitacostcoupons.json"
+  },
+  "vitaminshoppe.com": {
+    "name": "Vitamin Shoppe Coupons",
+    "site": "https://couponfollow.com/site/vitaminshoppe.com",
+    "file": "vitaminshoppecoupons.json"
+  },
+  "vitaminworld.com": {
+    "name": "Vitamin World Coupons",
+    "site": "https://couponfollow.com/site/vitaminworld.com",
+    "file": "vitaminworldcoupons.json"
+  },
+  "vitrazza.com": {
+    "name": "Vitrazza Coupons",
+    "site": "https://couponfollow.com/site/vitrazza.com",
+    "file": "vitrazzacoupons.json"
+  },
+  "vividseats.com": {
+    "name": "Vivid Seats Coupons",
+    "site": "https://couponfollow.com/site/vividseats.com",
+    "file": "vividseatscoupons.json"
+  },
+  "vividracing.com": {
+    "name": "VividRacing Coupons",
+    "site": "https://couponfollow.com/site/vividracing.com",
+    "file": "vividracingcoupons.json"
+  },
+  "viviscal.com": {
+    "name": "Viviscal Coupons",
+    "site": "https://couponfollow.com/site/viviscal.com",
+    "file": "viviscalcoupons.json"
+  },
+  "vivobarefoot.com": {
+    "name": "Vivobarefoot Coupons",
+    "site": "https://couponfollow.com/site/vivobarefoot.com",
+    "file": "vivobarefootcoupons.json"
+  },
+  "vons.com": {
+    "name": "Vons Coupons",
+    "site": "https://couponfollow.com/site/vons.com",
+    "file": "vonscoupons.json"
+  },
+  "vrbo.com": {
+    "name": "VRBO Coupons",
+    "site": "https://couponfollow.com/site/vrbo.com",
+    "file": "vrbocoupons.json"
+  },
+  "vudu.com": {
+    "name": "VUDU Coupons",
+    "site": "https://couponfollow.com/site/vudu.com",
+    "file": "vuducoupons.json"
+  },
+  "waitrose.com": {
+    "name": "Waitrose Coupons",
+    "site": "https://couponfollow.com/site/waitrose.com",
+    "file": "waitrosecoupons.json"
+  },
+  "walgreens.com": {
+    "name": "Walgreens Coupons",
+    "site": "https://couponfollow.com/site/walgreens.com",
+    "file": "walgreenscoupons.json"
+  },
+  "walkinlab.com": {
+    "name": "Walk-In Lab Coupons",
+    "site": "https://couponfollow.com/site/walkinlab.com",
+    "file": "walkinlabcoupons.json"
+  },
+  "wallpaperdirect.com": {
+    "name": "Wallpaper Direct Coupons",
+    "site": "https://couponfollow.com/site/wallpaperdirect.com",
+    "file": "wallpaperdirectcoupons.json"
+  },
+  "walmart.ca": {
+    "name": "Walmart Canada Coupons",
+    "site": "https://couponfollow.com/site/walmart.ca",
+    "file": "walmartcanadacoupons.json"
+  },
+  "walmart.com": {
+    "name": "Walmart Coupons",
+    "site": "https://couponfollow.com/site/walmart.com",
+    "file": "walmartcoupons.json"
+  },
+  "waterford.com": {
+    "name": "Waterford Crystal Coupons",
+    "site": "https://couponfollow.com/site/waterford.com",
+    "file": "waterfordcrystalcoupons.json"
+  },
+  "way.com": {
+    "name": "Way.com Coupons",
+    "site": "https://couponfollow.com/site/way.com",
+    "file": "waycomcoupons.json"
+  },
+  "wayfair.com": {
+    "name": "Wayfair Coupons",
+    "site": "https://couponfollow.com/site/wayfair.com",
+    "file": "wayfaircoupons.json"
+  },
+  "webstaurantstore.com": {
+    "name": "Webstaurantstore Coupons",
+    "site": "https://couponfollow.com/site/webstaurantstore.com",
+    "file": "webstaurantstorecoupons.json"
+  },
+  "well.ca": {
+    "name": "Well.ca Coupons",
+    "site": "https://couponfollow.com/site/well.ca",
+    "file": "wellcacoupons.json"
+  },
+  "west49.com": {
+    "name": "West 49 Coupons",
+    "site": "https://couponfollow.com/site/west49.com",
+    "file": "west49coupons.json"
+  },
+  "westelm.com": {
+    "name": "West Elm Coupons",
+    "site": "https://couponfollow.com/site/westelm.com",
+    "file": "westelmcoupons.json"
+  },
+  "westerndigital.com": {
+    "name": "Western Digital Coupons",
+    "site": "https://couponfollow.com/site/westerndigital.com",
+    "file": "westerndigitalcoupons.json"
+  },
+  "whistle.com": {
+    "name": "Whistle Coupons",
+    "site": "https://couponfollow.com/site/whistle.com",
+    "file": "whistlecoupons.json"
+  },
+  "whistles.co.uk": {
+    "name": "Whistles Coupons",
+    "site": "https://couponfollow.com/site/whistles.co.uk",
+    "file": "whistlescoupons.json"
+  },
+  "whitefoxboutique.com": {
+    "name": "White Fox Coupons",
+    "site": "https://couponfollow.com/site/whitefoxboutique.com",
+    "file": "whitefoxcoupons.json"
+  },
+  "whitehouseblackmarket.com": {
+    "name": "White House | Black Market Coupons",
+    "site": "https://couponfollow.com/site/whitehouseblackmarket.com",
+    "file": "whitehouseblackmarketcoupons.json"
+  },
+  "whitestuff.com": {
+    "name": "White Stuff Coupons",
+    "site": "https://couponfollow.com/site/whitestuff.com",
+    "file": "whitestuffcoupons.json"
+  },
+  "whizlabs.com": {
+    "name": "Whizlabs Coupons",
+    "site": "https://couponfollow.com/site/whizlabs.com",
+    "file": "whizlabscoupons.json"
+  },
+  "whsmith.co.uk": {
+    "name": "Whsmith Coupons",
+    "site": "https://couponfollow.com/site/whsmith.co.uk",
+    "file": "whsmithcoupons.json"
+  },
+  "wickes.co.uk": {
+    "name": "Wickes Coupons",
+    "site": "https://couponfollow.com/site/wickes.co.uk",
+    "file": "wickescoupons.json"
+  },
+  "wiggle.com": {
+    "name": "Wiggle Coupons",
+    "site": "https://couponfollow.com/site/wiggle.com",
+    "file": "wigglecoupons.json"
+  },
+  "williams-sonoma.com": {
+    "name": "Williams-Sonoma Coupons",
+    "site": "https://couponfollow.com/site/williams-sonoma.com",
+    "file": "williamssonomacoupons.json"
+  },
+  "winc.com": {
+    "name": "Winc Coupons",
+    "site": "https://couponfollow.com/site/winc.com",
+    "file": "winccoupons.json"
+  },
+  "windsorstore.com": {
+    "name": "Windsor Coupons",
+    "site": "https://couponfollow.com/site/windsorstore.com",
+    "file": "windsorcoupons.json"
+  },
+  "wineinsiders.com": {
+    "name": "Wine Insiders Coupons",
+    "site": "https://couponfollow.com/site/wineinsiders.com",
+    "file": "wineinsiderscoupons.json"
+  },
+  "wine.com": {
+    "name": "Wine.com Coupons",
+    "site": "https://couponfollow.com/site/wine.com",
+    "file": "winecomcoupons.json"
+  },
+  "witchery.com.au": {
+    "name": "Witchery Coupons",
+    "site": "https://couponfollow.com/site/witchery.com.au",
+    "file": "witcherycoupons.json"
+  },
+  "wolfandbadger.com": {
+    "name": "Wolf & Badger US Coupons",
+    "site": "https://couponfollow.com/site/wolfandbadger.com",
+    "file": "wolfbadgeruscoupons.json"
+  },
+  "wolverine.com": {
+    "name": "Wolverine Coupons",
+    "site": "https://couponfollow.com/site/wolverine.com",
+    "file": "wolverinecoupons.json"
+  },
+  "womanwithin.com": {
+    "name": "Woman Within Coupons",
+    "site": "https://couponfollow.com/site/womanwithin.com",
+    "file": "womanwithincoupons.json"
+  },
+  "wondershare.com": {
+    "name": "Wondershare Coupons",
+    "site": "https://couponfollow.com/site/wondershare.com",
+    "file": "wondersharecoupons.json"
+  },
+  "wwbw.com": {
+    "name": "Woodwind & Brasswind Coupons",
+    "site": "https://couponfollow.com/site/wwbw.com",
+    "file": "woodwindbrasswindcoupons.json"
+  },
+  "woolovers.com": {
+    "name": "Wool Overs Coupons",
+    "site": "https://couponfollow.com/site/woolovers.com",
+    "file": "wooloverscoupons.json"
+  },
+  "woot.com": {
+    "name": "Woot Coupons",
+    "site": "https://couponfollow.com/site/woot.com",
+    "file": "wootcoupons.json"
+  },
+  "wordery.com": {
+    "name": "Wordery Coupons",
+    "site": "https://couponfollow.com/site/wordery.com",
+    "file": "worderycoupons.json"
+  },
+  "worldbook.com": {
+    "name": "World Book Coupons",
+    "site": "https://couponfollow.com/site/worldbook.com",
+    "file": "worldbookcoupons.json"
+  },
+  "worldmarket.com": {
+    "name": "World Market Coupons",
+    "site": "https://couponfollow.com/site/worldmarket.com",
+    "file": "worldmarketcoupons.json"
+  },
+  "worldsoccershop.com": {
+    "name": "World Soccer Shop Coupons",
+    "site": "https://couponfollow.com/site/worldsoccershop.com",
+    "file": "worldsoccershopcoupons.json"
+  },
+  "worldremit.com": {
+    "name": "WorldRemit Coupons",
+    "site": "https://couponfollow.com/site/worldremit.com",
+    "file": "worldremitcoupons.json"
+  },
+  "worldwidegolfshops.com": {
+    "name": "Worldwidegolfshops.com Coupons",
+    "site": "https://couponfollow.com/site/worldwidegolfshops.com",
+    "file": "worldwidegolfshopscomcoupons.json"
+  },
+  "wrangler.com": {
+    "name": "Wrangler Coupons",
+    "site": "https://couponfollow.com/site/wrangler.com",
+    "file": "wranglercoupons.json"
+  },
+  "xbox.com": {
+    "name": "Xbox Coupons",
+    "site": "https://couponfollow.com/site/xbox.com",
+    "file": "xboxcoupons.json"
+  },
+  "xfinity.com": {
+    "name": "Xfinity Coupons",
+    "site": "https://couponfollow.com/site/xfinity.com",
+    "file": "xfinitycoupons.json"
+  },
+  "yamibuy.com": {
+    "name": "Yamibuy Coupons",
+    "site": "https://couponfollow.com/site/yamibuy.com",
+    "file": "yamibuycoupons.json"
+  },
+  "yandy.com": {
+    "name": "Yandy Coupons",
+    "site": "https://couponfollow.com/site/yandy.com",
+    "file": "yandycoupons.json"
+  },
+  "yankeecandle.com": {
+    "name": "Yankee Candle Coupons",
+    "site": "https://couponfollow.com/site/yankeecandle.com",
+    "file": "yankeecandlecoupons.json"
+  },
+  "yesstyle.co.uk": {
+    "name": "Yes Style Coupons",
+    "site": "https://couponfollow.com/site/yesstyle.co.uk",
+    "file": "yesstylecoupons.json"
+  },
+  "yesstyle.com": {
+    "name": "YesStyle Coupons",
+    "site": "https://couponfollow.com/site/yesstyle.com",
+    "file": "yesstylecoupons.json"
+  },
+  "yoox.com": {
+    "name": "Yoox Coupons",
+    "site": "https://couponfollow.com/site/yoox.com",
+    "file": "yooxcoupons.json"
+  },
+  "yoursuper.com": {
+    "name": "Your Superfoods Coupons",
+    "site": "https://couponfollow.com/site/yoursuper.com",
+    "file": "yoursuperfoodscoupons.json"
+  },
+  "yourmechanic.com": {
+    "name": "YourMechanic Coupons",
+    "site": "https://couponfollow.com/site/yourmechanic.com",
+    "file": "yourmechaniccoupons.json"
+  },
+  "yoursclothing.co.uk": {
+    "name": "Yours Clothing Coupons",
+    "site": "https://couponfollow.com/site/yoursclothing.co.uk",
+    "file": "yoursclothingcoupons.json"
+  },
+  "yummie.com": {
+    "name": "Yummie Coupons",
+    "site": "https://couponfollow.com/site/yummie.com",
+    "file": "yummiecoupons.json"
+  },
+  "yvesrocherusa.com": {
+    "name": "Yves Rocher Usa Coupons",
+    "site": "https://couponfollow.com/site/yvesrocherusa.com",
+    "file": "yvesrocherusacoupons.json"
+  },
+  "zgallerie.com": {
+    "name": "Z Gallerie Coupons",
+    "site": "https://couponfollow.com/site/zgallerie.com",
+    "file": "zgalleriecoupons.json"
+  },
+  "zaful.com": {
+    "name": "Zaful Coupons",
+    "site": "https://couponfollow.com/site/zaful.com",
+    "file": "zafulcoupons.json"
+  },
+  "zagg.com": {
+    "name": "ZAGG Coupons",
+    "site": "https://couponfollow.com/site/zagg.com",
+    "file": "zaggcoupons.json"
+  },
+  "zales.com": {
+    "name": "Zales Coupons",
+    "site": "https://couponfollow.com/site/zales.com",
+    "file": "zalescoupons.json"
+  },
+  "zalesoutlet.com": {
+    "name": "Zales Outlet Coupons",
+    "site": "https://couponfollow.com/site/zalesoutlet.com",
+    "file": "zalesoutletcoupons.json"
+  },
+  "zalora.com.ph": {
+    "name": "Zalora Philippines Coupons",
+    "site": "https://couponfollow.com/site/zalora.com.ph",
+    "file": "zaloraphilippinescoupons.json"
+  },
+  "zavvi.com": {
+    "name": "Zavvi Coupons",
+    "site": "https://couponfollow.com/site/zavvi.com",
+    "file": "zavvicoupons.json"
+  },
+  "zazzle.com": {
+    "name": "Zazzle Coupons",
+    "site": "https://couponfollow.com/site/zazzle.com",
+    "file": "zazzlecoupons.json"
+  },
+  "zazzle.co.uk": {
+    "name": "Zazzle UK Coupons",
+    "site": "https://couponfollow.com/site/zazzle.co.uk",
+    "file": "zazzleukcoupons.json"
+  },
+  "zenfolio.com": {
+    "name": "Zenfolio Coupons",
+    "site": "https://couponfollow.com/site/zenfolio.com",
+    "file": "zenfoliocoupons.json"
+  },
+  "zennioptical.com": {
+    "name": "ZenniOptical Coupons",
+    "site": "https://couponfollow.com/site/zennioptical.com",
+    "file": "zenniopticalcoupons.json"
+  },
+  "zipcar.com": {
+    "name": "Zipcar Coupons",
+    "site": "https://couponfollow.com/site/zipcar.com",
+    "file": "zipcarcoupons.json"
+  },
+  "zipcar.co.uk": {
+    "name": "Zipcar UK Coupons",
+    "site": "https://couponfollow.com/site/zipcar.co.uk",
+    "file": "zipcarukcoupons.json"
+  },
+  "ziprecruiter.com": {
+    "name": "Ziprecruiter Coupons",
+    "site": "https://couponfollow.com/site/ziprecruiter.com",
+    "file": "ziprecruitercoupons.json"
+  },
+  "zola.com": {
+    "name": "Zola Coupons",
+    "site": "https://couponfollow.com/site/zola.com",
+    "file": "zolacoupons.json"
+  },
+  "zoom.us": {
+    "name": "Zoom Coupons",
+    "site": "https://couponfollow.com/site/zoom.us",
+    "file": "zoomcoupons.json"
+  },
+  "zooplus.co.uk": {
+    "name": "Zooplus Coupons",
+    "site": "https://couponfollow.com/site/zooplus.co.uk",
+    "file": "zoopluscoupons.json"
+  },
+  "zoro.com": {
+    "name": "Zoro Tools Coupons",
+    "site": "https://couponfollow.com/site/zoro.com",
+    "file": "zorotoolscoupons.json"
+  },
+  "zoro.co.uk": {
+    "name": "Zoro UK Coupons",
+    "site": "https://couponfollow.com/site/zoro.co.uk",
+    "file": "zoroukcoupons.json"
+  },
+  "zulily.com": {
+    "name": "Zulily Coupons",
+    "site": "https://couponfollow.com/site/zulily.com",
+    "file": "zulilycoupons.json"
+  },
+  "zumba.com": {
+    "name": "Zumba Coupons",
+    "site": "https://couponfollow.com/site/zumba.com",
+    "file": "zumbacoupons.json"
+  }
+}
